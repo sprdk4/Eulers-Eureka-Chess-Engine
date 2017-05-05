@@ -1,6 +1,3 @@
-# Where to find engine code
-all the code that I wrote is found in games/chess/my_code/... and games/chess/ai.cpp, everything else is framework code provided for interfacing with the tournament arena.
-
 # Chess C++ Client
 
 This is the root of you AI. Stay out of the `joueur/` folder, it does most of the heavy lifting to play on our game servers. Your AI, and the game objects it manipulates are all in `games/chess/`, with your very own AI living in `games/chess/ai.hpp` and `games/chess/ai.cpp` files for you to make smarter.
