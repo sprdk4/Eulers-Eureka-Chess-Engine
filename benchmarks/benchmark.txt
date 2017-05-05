@@ -1,0 +1,38 @@
+seed:1488332551
+
+                SCOPED_BENCHMARK("move gen");
+                for(int x=0;x<1000;x++){
+                    potentialMoves = board.getLegalMoves(nullptr);
+                }
+
+base: nothing changed
+winner:
+move gen average: 6,568,593 ns  total: 413,821,400 ns  Samples: 63
+move gen average: 6,735,611 ns  total: 424,343,500 ns  Samples: 63
+move gen average: 6,934,249 ns  total: 436,857,700 ns  Samples: 63
+move gen average: 6,855,368 ns  total: 431,888,200 ns  Samples: 63
+move gen average: 6,282,503 ns  total: 395,797,700 ns  Samples: 63
+move gen average: 6,910,436 ns  total: 435,357,500 ns  Samples: 63
+move gen average: 7,172,957 ns  total: 451,896,300 ns  Samples: 63
+move gen average: 7,132,796 ns  total: 449,366,200 ns  Samples: 63
+move gen average: 7,171,909 ns  total: 451,830,300 ns  Samples: 63
+move gen average: 7,563,271 ns  total: 476,486,100 ns  Samples: 63
+move gen average: 6,529,458 ns  total: 411,355,900 ns  Samples: 63
+move gen average: 602,751,866 ns  total: 37,973,367,600 ns  Samples: 63
+move gen average: 630,991,265 ns  total: 39,752,449,700 ns  Samples: 63
+move gen average: 5,996,970,953 ns  total: 377,809,170,100 ns  Samples: 63
+loser:
+move gen average: 5,894,234 ns  total: 371,336,800 ns  Samples: 63
+move gen average: 6,012,979 ns  total: 378,817,700 ns  Samples: 63
+move gen average: 8,913,503 ns  total: 561,550,700 ns  Samples: 63
+move gen average: 6,481,142 ns  total: 408,312,000 ns  Samples: 63
+move gen average: 5,989,647 ns  total: 377,347,800 ns  Samples: 63
+move gen average: 6,378,742 ns  total: 401,860,800 ns  Samples: 63
+move gen average: 6,631,798 ns  total: 417,803,300 ns  Samples: 63
+move gen average: 6,385,766 ns  total: 402,303,300 ns  Samples: 63
+move gen average: 6,362,561 ns  total: 400,841,400 ns  Samples: 63
+move gen average: 7,156,822 ns  total: 450,879,800 ns  Samples: 63
+move gen average: 6,251,195 ns  total: 393,825,300 ns  Samples: 63
+move gen average: 564,685,342 ns  total: 35,575,176,600 ns  Samples: 63
+move gen average: 593,704,007 ns  total: 37,403,352,500 ns  Samples: 63
+move gen average: 5,626,839,996 ns  total: 354,490,919,800 ns  Samples: 63

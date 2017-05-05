@@ -1,0 +1,111 @@
+random seed: 1489019032
+loser:
+//pre pawns using rotations rather than if-else logic
+move gen bitboard average: 24,458,218 ns  total: 391,331,500 ns  Samples: 16
+move gen bitboard average: 23,204,043 ns  total: 371,264,700 ns  Samples: 16
+move gen bitboard average: 27,458,362 ns  total: 439,333,800 ns  Samples: 16
+move gen bitboard average: 21,764,331 ns  total: 348,229,300 ns  Samples: 16
+move gen bitboard average: 23,204,837 ns  total: 371,277,400 ns  Samples: 16
+
+//pawns not using rotations to generate moves rather than if else logic
+move gen bitboard average: 24,154,856 ns  total: 386,477,700 ns  Samples: 16
+move gen bitboard average: 24,079,987 ns  total: 385,279,800 ns  Samples: 16
+move gen bitboard average: 25,267,893 ns  total: 404,286,300 ns  Samples: 16
+move gen bitboard average: 30,083,806 ns  total: 481,340,900 ns  Samples: 16
+move gen bitboard average: 27,268,906 ns  total: 436,302,500 ns  Samples: 16
+move gen bitboard average: 22,953,700 ns  total: 367,259,200 ns  Samples: 16
+
+//switched to MoveList instead of std::vector<Move>
+move gen bitboard average: 9,381,475 ns  total: 150,103,600 ns  Samples: 16
+move gen bitboard average: 9,507,487 ns  total: 152,119,800 ns  Samples: 16
+move gen bitboard average: 8,630,825 ns  total: 138,093,200 ns  Samples: 16
+move gen bitboard average: 10,819,956 ns  total: 173,119,300 ns  Samples: 16
+move gen bitboard average: 9,943,925 ns  total: 159,102,800 ns  Samples: 16
+
+//switched to merging all pieces masks into an array[14] instead of using 2 piecelists
+move gen bitboard average: 9,945,050 ns  total: 159,120,800 ns  Samples: 16
+move gen bitboard average: 9,694,856 ns  total: 155,117,700 ns  Samples: 16
+move gen bitboard average: 10,100,731 ns  total: 161,611,700 ns  Samples: 16
+
+//using packed moves
+move gen bitboard average: 5,754,518 ns  total: 92,072,300 ns  Samples: 16
+move gen bitboard average: 6,003,487 ns  total: 96,055,800 ns  Samples: 16
+move gen bitboard average: 6,319,093 ns  total: 101,105,500 ns  Samples: 16
+move gen bitboard average: 5,691,462 ns  total: 91,063,400 ns  Samples: 16
+move gen bitboard average: 6,004,262 ns  total: 96,068,200 ns  Samples: 16
+
+winner:
+//pre pawns using rotations rather than if-else logic
+move gen bitboard average: 29,613,129 ns  total: 503,423,200 ns  Samples: 17
+move gen bitboard average: 32,198,658 ns  total: 547,377,200 ns  Samples: 17
+move gen bitboard average: 33,494,329 ns  total: 569,403,600 ns  Samples: 17
+move gen bitboard average: 31,080,864 ns  total: 528,374,700 ns  Samples: 17
+move gen bitboard average: 28,549,035 ns  total: 485,333,600 ns  Samples: 17
+
+//pawns not using rotations to generate moves rather than if else logic
+move gen bitboard average: 35,468,847 ns  total: 602,970,400 ns  Samples: 17
+move gen bitboard average: 31,906,211 ns  total: 542,405,600 ns  Samples: 17
+move gen bitboard average: 32,906,835 ns  total: 559,416,200 ns  Samples: 17
+move gen bitboard average: 33,671,600 ns  total: 572,417,200 ns  Samples: 17
+move gen bitboard average: 34,436,123 ns  total: 585,414,100 ns  Samples: 17
+move gen bitboard average: 30,787,100 ns  total: 523,380,700 ns  Samples: 17
+
+//switched to MoveList instead of std::vector<Move>
+move gen bitboard average: 14,215,758 ns  total: 241,667,900 ns  Samples: 17
+move gen bitboard average: 14,421,811 ns  total: 245,170,800 ns  Samples: 17
+move gen bitboard average: 13,539,623 ns  total: 230,173,600 ns  Samples: 17
+move gen bitboard average: 15,010,617 ns  total: 255,180,500 ns  Samples: 17
+move gen bitboard average: 14,833,817 ns  total: 252,174,900 ns  Samples: 17
+
+//switched to merging all pieces masks into an array[14] instead of using 2 piecelists
+move gen bitboard average: 14,510,305 ns  total: 246,675,200 ns  Samples: 17
+move gen bitboard average: 14,362,988 ns  total: 244,170,800 ns  Samples: 17
+move gen bitboard average: 17,718,294 ns  total: 301,211,000 ns  Samples: 17
+
+//using packed moves
+move gen bitboard average: 7,476,135 ns  total: 127,094,300 ns  Samples: 17
+move gen bitboard average: 7,475,094 ns  total: 127,076,600 ns  Samples: 17
+move gen bitboard average: 7,005,488 ns  total: 119,093,300 ns  Samples: 17
+move gen bitboard average: 7,534,664 ns  total: 128,089,300 ns  Samples: 17
+move gen bitboard average: 9,418,341 ns  total: 160,111,800 ns  Samples: 17
+
+
+
+
+
+move gen bitboard average: 153,108,700 ns  total: 153,108,700 ns  Samples: 1
+move gen bitboard average: 120,085,000 ns  total: 120,085,000 ns  Samples: 1
+move gen bitboard average: 124,088,900 ns  total: 124,088,900 ns  Samples: 1
+move gen bitboard average: 138,097,800 ns  total: 138,097,800 ns  Samples: 1
+move gen bitboard average: 119,085,100 ns  total: 119,085,100 ns  Samples: 1
+move gen bitboard average: 122,086,000 ns  total: 122,086,000 ns  Samples: 1
+
+seed = 1489201388;
+total turns 29:
+
+//Copy bitboard no sorting
+alpha beta average: 6,908,578,233 ns  total: 103,628,673,500 ns  Samples: 15
+alpha beta average: 6,914,658,646 ns  total: 103,719,879,700 ns  Samples: 15
+//undo move no sorting
+alpha beta average: 6,766,801,286 ns  total: 101,502,019,300 ns  Samples: 15
+alpha beta average: 6,772,252,640 ns  total: 101,583,789,600 ns  Samples: 15
+//random_shuffle
+alpha beta average: 24,719,354,185 ns  total: 346,070,958,600 ns  Samples: 14
+//std::sort
+alpha beta average: 7,056,464,558 ns  total: 119,959,897,500 ns  Samples: 17
+//std::make_heap on both
+alpha beta average: 2,299,450,158 ns  total: 39,090,652,700 ns  Samples: 17
+//std::sort on both
+alpha beta average: 2,555,232,670 ns  total: 43,438,955,400 ns  Samples: 17
+alpha beta average: 2,563,747,811 ns  total: 43,583,712,800 ns  Samples: 17
+alpha beta average: 2,703,950,041 ns  total: 45,967,150,700 ns  Samples: 17 (greater equal)
+
+alpha beta average: 2,379,393,247 ns  total: 40,449,685,200 ns  Samples: 17
+
+total turns: 50
+winner:
+alpha beta average: 2,907,713,080 ns  total: 75,600,540,100 ns  Samples: 26
+alpha beta average: 2,838,627,153 ns  total: 73,804,306,000 ns  Samples: 26
+loser:
+alpha beta average: 4,635,289,200 ns  total: 115,882,230,000 ns  Samples: 25
+alpha beta average: 4,906,680,524 ns  total: 122,667,013,100 ns  Samples: 25

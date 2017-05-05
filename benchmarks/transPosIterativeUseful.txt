@@ -1,0 +1,2727 @@
+"C:\Users\Shawn Roach\Desktop\cs5400\Chess1\eulers-eureka-shawn-roach\cmake-build-release\cpp-client.exe" Chess -s r99acm.device.mst.edu -r session1
+?[36mConnecting to: r99acm.device.mst.edu:3000
+?[0m?[36mIn lobby for game 'Chess' in session 'session1'.?[0m
+?[32mGame is starting.?[0m
+I'm White
+seed = 1491251153;
+Time Remaining: 9e+011 ns
+fen: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+zobirst hash: 463b96181691fc9c
+   a b c d e f g h
+ 8 r n b q k b n r
+ 7 p p p p p p p p
+ 6 . . . . . . . .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . . . . .
+ 2 P P P P P P P P
+ 1 R N B Q K B N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1393993200 ns
+out of: 3600000000 ns
+went to depth: 8
+minimax result: 11
+nodes explored:  5959334
+moves generated: 31471532
+ratio: 0.189356
+making move: e2 to e3
+Opponent's Last Move: 'g6'  on turn: 2
+Time Remaining: 8.97865e+011 ns
+fen: "rnbqkbnr/pppppp1p/6p1/8/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+zobirst hash: 2a287f14941e673
+   a b c d e f g h
+ 8 r n b q k b n r
+ 7 p p p p p p . p
+ 6 . . . . . . p .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . P . . .
+ 2 P P P P . P P P
+ 1 R N B Q K B N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2281624900 ns
+out of: 3591461361 ns
+went to depth: 8
+minimax result: 12
+nodes explored:  11543621
+moves generated: 68554086
+ratio: 0.168387
+making move: d1 to f3
+Opponent's Last Move: 'Nh6'  on turn: 4
+Time Remaining: 8.95239e+011 ns
+fen: "rnbqkb1r/pppppp1p/6pn/8/8/4PQ2/PPPP1PPP/RNB1KBNR w KQkq - 2 3"
+zobirst hash: 390c6326dfbeddb1
+   a b c d e f g h
+ 8 r n b q k b . r
+ 7 p p p p p p . p
+ 6 . . . . . . p n
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . P Q . .
+ 2 P P P P . P P P
+ 1 R N B . K B N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   4697344900 ns
+out of: 3580955180 ns
+went to depth: 8
+minimax result: 14
+nodes explored:  23510397
+moves generated: 144363707
+ratio: 0.162855
+making move: g2 to g3
+Opponent's Last Move: 'Bg7'  on turn: 6
+Time Remaining: 8.90196e+011 ns
+fen: "rnbqk2r/ppppppbp/6pn/8/8/4PQP1/PPPP1P1P/RNB1KBNR w KQkq - 1 4"
+zobirst hash: a556e5d1c42ece23
+   a b c d e f g h
+ 8 r n b q k . . r
+ 7 p p p p p p b p
+ 6 . . . . . . p n
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . P Q P .
+ 2 P P P P . P . P
+ 1 R N B . K B N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1959405700 ns
+out of: 3560783545 ns
+went to depth: 8
+minimax result: 14
+nodes explored:  9793935
+moves generated: 63602133
+ratio: 0.153988
+making move: b1 to a3
+Opponent's Last Move: 'e6'  on turn: 8
+Time Remaining: 8.87927e+011 ns
+fen: "rnbqk2r/pppp1pbp/4p1pn/8/8/N3PQP1/PPPP1P1P/R1B1KBNR w KQkq - 0 5"
+zobirst hash: d4c7c7b3315e71bf
+   a b c d e f g h
+ 8 r n b q k . . r
+ 7 p p p p . p b p
+ 6 . . . . p . p n
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 N . . . P Q P .
+ 2 P P P P . P . P
+ 1 R . B . K B N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   4742377500 ns
+out of: 3551706057 ns
+went to depth: 8
+minimax result: 14
+nodes explored:  23647769
+moves generated: 162236512
+ratio: 0.145761
+making move: f1 to g2
+Opponent's Last Move: 'f5'  on turn: 10
+Time Remaining: 8.82889e+011 ns
+fen: "rnbqk2r/pppp2bp/4p1pn/5p2/8/N3PQP1/PPPP1PBP/R1B1K1NR w KQkq f6 0 6"
+zobirst hash: f5588257c23b8418
+   a b c d e f g h
+ 8 r n b q k . . r
+ 7 p p p p . . b p
+ 6 . . . . p . p n
+ 5 . . . . . p . .
+ 4 . . . . . . . .
+ 3 N . . . P Q P .
+ 2 P P P P . P B P
+ 1 R . B . K . N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   3183267000 ns
+out of: 3531554883 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  15543654
+moves generated: 110750887
+ratio: 0.140348
+making move: c2 to c3
+Opponent's Last Move: 'c6'  on turn: 12
+Time Remaining: 8.79406e+011 ns
+fen: "rnbqk2r/pp1p2bp/2p1p1pn/5p2/8/N1P1PQP1/PP1P1PBP/R1B1K1NR w KQkq - 0 7"
+zobirst hash: 11f89720658b5825
+   a b c d e f g h
+ 8 r n b q k . . r
+ 7 p p . p . . b p
+ 6 . . p . p . p n
+ 5 . . . . . p . .
+ 4 . . . . . . . .
+ 3 N . P . P Q P .
+ 2 P P . P . P B P
+ 1 R . B . K . N R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2019435900 ns
+out of: 3517625864 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  10483502
+moves generated: 66396754
+ratio: 0.157892
+making move: g1 to h3
+Opponent's Last Move: 'Qe7'  on turn: 14
+Time Remaining: 8.77081e+011 ns
+fen: "rnb1k2r/pp1pq1bp/2p1p1pn/5p2/8/N1P1PQPN/PP1P1PBP/R1B1K2R w KQkq - 2 8"
+zobirst hash: e1c992dfec928995
+   a b c d e f g h
+ 8 r n b . k . . r
+ 7 p p . p q . b p
+ 6 . . p . p . p n
+ 5 . . . . . p . .
+ 4 . . . . . . . .
+ 3 N . P . P Q P N
+ 2 P P . P . P B P
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   3064182200 ns
+out of: 3508322989 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  14961720
+moves generated: 104282111
+ratio: 0.143474
+making move: b2 to b4
+Opponent's Last Move: 'Na6'  on turn: 16
+Time Remaining: 8.73686e+011 ns
+fen: "r1b1k2r/pp1pq1bp/n1p1p1pn/5p2/1P6/N1P1PQPN/P2P1PBP/R1B1K2R w KQkq - 1 9"
+zobirst hash: 5bc4ce3ccdb790d
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . p q . b p
+ 6 n . p . p . p n
+ 5 . . . . . p . .
+ 4 . P . . . . . .
+ 3 N . P . P Q P N
+ 2 P . . P . P B P
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1714229000 ns
+out of: 3494742222 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  8929769
+moves generated: 52696278
+ratio: 0.169457
+making move: a3 to c2
+Opponent's Last Move: 'd5'  on turn: 18
+Time Remaining: 8.71653e+011 ns
+fen: "r1b1k2r/pp2q1bp/n1p1p1pn/3p1p2/1P6/2P1PQPN/P1NP1PBP/R1B1K2R w KQkq d6 0 10"
+zobirst hash: 28273aa4d69b21fa
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . . q . b p
+ 6 n . p . p . p n
+ 5 . . . p . p . .
+ 4 . P . . . . . .
+ 3 . . P . P Q P N
+ 2 P . N P . P B P
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2001410700 ns
+out of: 3486612038 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  9791919
+moves generated: 66725780
+ratio: 0.146749
+making move: c1 to a3
+Opponent's Last Move: 'b5'  on turn: 20
+Time Remaining: 8.69357e+011 ns
+fen: "r1b1k2r/p3q1bp/n1p1p1pn/1p1p1p2/1P6/B1P1PQPN/P1NP1PBP/R3K2R w KQkq b6 0 11"
+zobirst hash: ea3081f7c7e60dae
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . . . q . b p
+ 6 n . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . . . . . .
+ 3 B . P . P Q P N
+ 2 P . N P . P B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2320640900 ns
+out of: 3477429752 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  11767799
+moves generated: 78419727
+ratio: 0.150062
+making move: f3 to e2
+Opponent's Last Move: 'Qb7'  on turn: 22
+Time Remaining: 8.66751e+011 ns
+fen: "r1b1k2r/pq4bp/n1p1p1pn/1p1p1p2/1P6/B1P1P1PN/P1NPQPBP/R3K2R w KQkq - 2 12"
+zobirst hash: 8b7f91a72832e166
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p q . . . . b p
+ 6 n . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . . . . . .
+ 3 B . P . P . P N
+ 2 P . N P Q P B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2632884600 ns
+out of: 3467004515 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  13099668
+moves generated: 90151716
+ratio: 0.145307
+making move: f2 to f4
+Opponent's Last Move: 'Qf7'  on turn: 24
+Time Remaining: 8.63815e+011 ns
+fen: "r1b1k2r/p4qbp/n1p1p1pn/1p1p1p2/1P3P2/B1P1P1PN/P1NPQ1BP/R3K2R w KQkq - 1 13"
+zobirst hash: b24cdef976fee9f3
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . . . . q b p
+ 6 n . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . . . P . .
+ 3 B . P . P . P N
+ 2 P . N P Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1736234700 ns
+out of: 3455261577 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8727914
+moves generated: 60869259
+ratio: 0.143388
+making move: d2 to d4
+Opponent's Last Move: 'Nc7'  on turn: 26
+Time Remaining: 8.61782e+011 ns
+fen: "r1b1k2r/p1n2qbp/2p1p1pn/1p1p1p2/1P1P1P2/B1P1P1PN/P1N1Q1BP/R3K2R w KQkq - 1 14"
+zobirst hash: d55adffd34338958
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n . . q b p
+ 6 . . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P . P . P N
+ 2 P . N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1298911100 ns
+out of: 3447129014 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  6563646
+moves generated: 41377395
+ratio: 0.158629
+making move: e2 to d3
+Opponent's Last Move: 'Qe7'  on turn: 28
+Time Remaining: 8.60187e+011 ns
+fen: "r1b1k2r/p1n1q1bp/2p1p1pn/1p1p1p2/1P1P1P2/B1PQP1PN/P1N3BP/R3K2R w KQkq - 3 15"
+zobirst hash: 92a30cabb0a21249
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n . q . b p
+ 6 . . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P N
+ 2 P . N . . . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1529088400 ns
+out of: 3440746694 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8036953
+moves generated: 50933338
+ratio: 0.157794
+making move: a1 to d1
+Opponent's Last Move: 'Qf8'  on turn: 30
+Time Remaining: 8.58371e+011 ns
+fen: "r1b1kq1r/p1n3bp/2p1p1pn/1p1p1p2/1P1P1P2/B1PQP1PN/P1N3BP/3RK2R w Kkq - 5 16"
+zobirst hash: 32b611e20f43e3b1
+   a b c d e f g h
+ 8 r . b . k q . r
+ 7 p . n . . . b p
+ 6 . . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P N
+ 2 P . N . . . B P
+ 1 . . . R K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1022725600 ns
+out of: 3433482717 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  5328509
+moves generated: 32212817
+ratio: 0.165416
+making move: h3 to f2
+Opponent's Last Move: 'Bd7'  on turn: 32
+Time Remaining: 8.57051e+011 ns
+fen: "r3kq1r/p1nb2bp/2p1p1pn/1p1p1p2/1P1P1P2/B1PQP1P1/P1N2NBP/3RK2R w Kkq - 7 17"
+zobirst hash: c3e4e3782665403b
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 p . n b . . b p
+ 6 . . p . p . p n
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P . N . . N B P
+ 1 . . . R K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1496052600 ns
+out of: 3428203573 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7603158
+moves generated: 47052454
+ratio: 0.161589
+making move: d1 to d2
+Opponent's Last Move: 'Nf7'  on turn: 34
+Time Remaining: 8.55249e+011 ns
+fen: "r3kq1r/p1nb1nbp/2p1p1p1/1p1p1p2/1P1P1P2/B1PQP1P1/P1NR1NBP/4K2R w Kkq - 9 18"
+zobirst hash: 77d0cf4866dcc536
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 p . n b . n b p
+ 6 . . p . p . p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P . N R . N B P
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1373990000 ns
+out of: 3420994507 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  7265647
+moves generated: 44770358
+ratio: 0.162287
+making move: f2 to d1
+Opponent's Last Move: 'Bf6'  on turn: 36
+Time Remaining: 8.53571e+011 ns
+fen: "r3kq1r/p1nb1n1p/2p1pbp1/1p1p1p2/1P1P1P2/B1PQP1P1/P1NR2BP/3NK2R w Kkq - 11 19"
+zobirst hash: a69aaa092898ad81
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 p . n b . n . p
+ 6 . . p . p b p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P . N R . . B P
+ 1 . . . N K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1725215600 ns
+out of: 3414284161 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  9135428
+moves generated: 52810178
+ratio: 0.172986
+making move: d2 to f2
+Opponent's Last Move: 'Qh6'  on turn: 38
+Time Remaining: 8.51534e+011 ns
+fen: "r3k2r/p1nb1n1p/2p1pbpq/1p1p1p2/1P1P1P2/B1PQP1P1/P1N2RBP/3NK2R w Kkq - 13 20"
+zobirst hash: 7510d8e0856371a7
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 p . n b . n . p
+ 6 . . p . p b p q
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P . N . . R B P
+ 1 . . . N K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1957402700 ns
+out of: 3406137528 ns
+went to depth: 8
+minimax result: 15
+nodes explored:  10793638
+moves generated: 61177320
+ratio: 0.176432
+making move: f2 to d2
+Opponent's Last Move: 'Nd6'  on turn: 40
+Time Remaining: 8.49282e+011 ns
+fen: "r3k2r/p1nb3p/2pnpbpq/1p1p1p2/1P1P1P2/B1PQP1P1/P1NR2BP/3NK2R w Kkq - 15 21"
+zobirst hash: 7c5c3a3d480bb4f9
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 p . n b . . . p
+ 6 . . p n p b p q
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P . N R . . B P
+ 1 . . . N K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1460039000 ns
+out of: 3397128628 ns
+went to depth: 8
+minimax result: 15
+nodes explored:  7888081
+moves generated: 44471950
+ratio: 0.177372
+making move: d1 to b2
+Opponent's Last Move: 'Nf7'  on turn: 42
+Time Remaining: 8.47522e+011 ns
+fen: "r3k2r/p1nb1n1p/2p1pbpq/1p1p1p2/1P1P1P2/B1PQP1P1/PNNR2BP/4K2R w Kkq - 17 22"
+zobirst hash: ff06879a05213388
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 p . n b . n . p
+ 6 . . p . p b p q
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P N N R . . B P
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1288916500 ns
+out of: 3390087825 ns
+went to depth: 8
+minimax result: 15
+nodes explored:  6789455
+moves generated: 40331006
+ratio: 0.168343
+making move: d2 to d1
+Opponent's Last Move: 'Qf8'  on turn: 44
+Time Remaining: 8.45944e+011 ns
+fen: "r3kq1r/p1nb1n1p/2p1pbp1/1p1p1p2/1P1P1P2/B1PQP1P1/PNN3BP/3RK2R w Kkq - 19 23"
+zobirst hash: d5e665bb8c0d35da
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 p . n b . n . p
+ 6 . . p . p b p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P N N . . . B P
+ 1 . . . R K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2282624900 ns
+out of: 3383775085 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  12136569
+moves generated: 73052848
+ratio: 0.166134
+making move: d1 to a1
+Opponent's Last Move: 'Qh6'  on turn: 46
+Time Remaining: 8.43358e+011 ns
+fen: "r3k2r/p1nb1n1p/2p1pbpq/1p1p1p2/1P1P1P2/B1PQP1P1/PNN3BP/R3K2R w Kkq - 21 24"
+zobirst hash: c11855a099a7f03
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 p . n b . n . p
+ 6 . . p . p b p q
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P Q P . P .
+ 2 P N N . . . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1525072500 ns
+out of: 3373432980 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  8340425
+moves generated: 47920921
+ratio: 0.174046
+making move: d3 to e2
+Opponent's Last Move: 'Qf8'  on turn: 48
+Time Remaining: 8.41532e+011 ns
+fen: "r3kq1r/p1nb1n1p/2p1pbp1/1p1p1p2/1P1P1P2/B1P1P1P1/PNN1Q1BP/R3K2R w Kkq - 23 25"
+zobirst hash: 9cf3eb33c6d53e14
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 p . n b . n . p
+ 6 . . p . p b p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P . P . P .
+ 2 P N N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2482766700 ns
+out of: 3366128380 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  13722259
+moves generated: 71030289
+ratio: 0.193189
+making move: b2 to d3
+Opponent's Last Move: 'Qg7'  on turn: 50
+Time Remaining: 8.38755e+011 ns
+fen: "r3k2r/p1nb1nqp/2p1pbp1/1p1p1p2/1P1P1P2/B1PNP1P1/P1N1Q1BP/R3K2R w Kkq - 25 26"
+zobirst hash: 5b94bc540348ce1f
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 p . n b . n q p
+ 6 . . p . p b p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P N P . P .
+ 2 P . N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1547102300 ns
+out of: 3355019903 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  7950600
+moves generated: 55121572
+ratio: 0.144238
+making move: d3 to c5
+Opponent's Last Move: 'Bc8'  on turn: 52
+Time Remaining: 8.36917e+011 ns
+fen: "r1b1k2r/p1n2nqp/2p1pbp1/1pNp1p2/1P1P1P2/B1P1P1P1/P1N1Q1BP/R3K2R w Kkq - 27 27"
+zobirst hash: e31b4205e3e79b9a
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n . . n q p
+ 6 . . p . p b p .
+ 5 . p N p . p . .
+ 4 . P . P . P . .
+ 3 B . P . P . P .
+ 2 P . N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1757250400 ns
+out of: 3347668717 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  8960270
+moves generated: 63389566
+ratio: 0.141352
+making move: c5 to b3
+Opponent's Last Move: 'Qf8'  on turn: 54
+Time Remaining: 8.34858e+011 ns
+fen: "r1b1kq1r/p1n2n1p/2p1pbp1/1p1p1p2/1P1P1P2/BNP1P1P1/P1N1Q1BP/R3K2R w Kkq - 29 28"
+zobirst hash: 67ff91f3e42e22f5
+   a b c d e f g h
+ 8 r . b . k q . r
+ 7 p . n . . n . p
+ 6 . . p . p b p .
+ 5 . p . p . p . .
+ 4 . P . P . P . .
+ 3 B N P . P . P .
+ 2 P . N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2072475500 ns
+out of: 3339432253 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  10319821
+moves generated: 67237540
+ratio: 0.153483
+making move: b3 to a5
+Opponent's Last Move: 'Qd6'  on turn: 56
+Time Remaining: 8.32438e+011 ns
+fen: "r1b1k2r/p1n2n1p/2pqpbp1/Np1p1p2/1P1P1P2/B1P1P1P1/P1N1Q1BP/R3K2R w Kkq - 31 29"
+zobirst hash: d8daf3121537a445
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n . . n . p
+ 6 . . p q p b p .
+ 5 N p . p . p . .
+ 4 . P . P . P . .
+ 3 B . P . P . P .
+ 2 P . N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2230599900 ns
+out of: 3329753107 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11638135
+moves generated: 75074827
+ratio: 0.15502
+making move: a3 to b2
+Opponent's Last Move: 'Qd7'  on turn: 58
+Time Remaining: 8.29891e+011 ns
+fen: "r1b1k2r/p1nq1n1p/2p1pbp1/Np1p1p2/1P1P1P2/2P1P1P1/PBN1Q1BP/R3K2R w Kkq - 33 30"
+zobirst hash: 124ae617a3c47093
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n q . n . p
+ 6 . . p . p b p .
+ 5 N p . p . p . .
+ 4 . P . P . P . .
+ 3 . . P . P . P .
+ 2 P B N . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1319939900 ns
+out of: 3319563226 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6947604
+moves generated: 46932100
+ratio: 0.148035
+making move: c2 to a3
+Opponent's Last Move: 'h5'  on turn: 60
+Time Remaining: 8.2827e+011 ns
+fen: "r1b1k2r/p1nq1n2/2p1pbp1/Np1p1p1p/1P1P1P2/N1P1P1P1/PB2Q1BP/R3K2R w Kkq h6 0 31"
+zobirst hash: a7e52c3f2270c735
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p . n q . n . .
+ 6 . . p . p b p .
+ 5 N p . p . p . p
+ 4 . P . P . P . .
+ 3 N . P . P . P .
+ 2 P B . . Q . B P
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2216578300 ns
+out of: 3313078935 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11300312
+moves generated: 79783796
+ratio: 0.141637
+making move: h2 to h4
+Opponent's Last Move: 'Rh6'  on turn: 62
+Time Remaining: 8.25766e+011 ns
+fen: "r1b1k3/p1nq1n2/2p1pbpr/Np1p1p1p/1P1P1P1P/N1P1P1P1/PB2Q1B1/R3K2R w Kq - 1 32"
+zobirst hash: 346fde0a6021b639
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 p . n q . n . .
+ 6 . . p . p b p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P . P .
+ 2 P B . . Q . B .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1834305300 ns
+out of: 3303063966 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  9490578
+moves generated: 64735821
+ratio: 0.146605
+making move: g2 to f3
+Opponent's Last Move: 'Qd6'  on turn: 64
+Time Remaining: 8.23633e+011 ns
+fen: "r1b1k3/p1n2n2/2pqpbpr/Np1p1p1p/1P1P1P1P/N1P1PBP1/PB2Q3/R3K2R w Kq - 3 33"
+zobirst hash: 5f10622f6ef154f8
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 p . n . . n . .
+ 6 . . p q p b p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P B P .
+ 2 P B . . Q . . .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2655902600 ns
+out of: 3294533745 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  14122117
+moves generated: 87187015
+ratio: 0.161975
+making move: a5 to b3
+Opponent's Last Move: 'Bh8'  on turn: 66
+Time Remaining: 8.2067e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1PBP1/PB2Q3/R3K2R w Kq - 5 34"
+zobirst hash: 5ad9b38b2e241451
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P B P .
+ 2 P B . . Q . . .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1796291000 ns
+out of: 3282678679 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  9622242
+moves generated: 61082133
+ratio: 0.15753
+making move: e2 to g2
+Opponent's Last Move: 'Qe7'  on turn: 68
+Time Remaining: 8.18587e+011 ns
+fen: "r1b1k2b/p1n1qn2/2p1p1pr/1p1p1p1p/1P1P1P1P/NNP1PBP1/PB4Q1/R3K2R w Kq - 7 35"
+zobirst hash: fa01a304a86eeddd
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . q n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P B P .
+ 2 P B . . . . Q .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1342955900 ns
+out of: 3274349494 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7147678
+moves generated: 45876023
+ratio: 0.155804
+making move: b3 to a5
+Opponent's Last Move: 'Qd6'  on turn: 70
+Time Remaining: 8.16932e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/N1P1PBP1/PB4Q1/R3K2R w Kq - 9 36"
+zobirst hash: 6b20c44d92c1da38
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P B P .
+ 2 P B . . . . Q .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1975404600 ns
+out of: 3267727315 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  10524795
+moves generated: 64807064
+ratio: 0.162402
+making move: g2 to h3
+Opponent's Last Move: 'Rh7'  on turn: 72
+Time Remaining: 8.14659e+011 ns
+fen: "r1b1k2b/p1n2n1r/2pqp1p1/Np1p1p1p/1P1P1P1P/N1P1PBPQ/PB6/R3K2R w Kq - 11 37"
+zobirst hash: d1ff21d6833d9b21
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . r
+ 6 . . p q p . p .
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P B P Q
+ 2 P B . . . . . .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1664185500 ns
+out of: 3258636871 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8598980
+moves generated: 54851452
+ratio: 0.156769
+making move: f3 to e2
+Opponent's Last Move: 'Rh6'  on turn: 74
+Time Remaining: 8.12686e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/N1P1P1PQ/PB2B3/R3K2R w Kq - 13 38"
+zobirst hash: 33f53c07a973ff86
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P . P Q
+ 2 P B . . B . . .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1095768200 ns
+out of: 3250744288 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5832147
+moves generated: 36164328
+ratio: 0.161268
+making move: b2 to c1
+Opponent's Last Move: 'Qd7'  on turn: 76
+Time Remaining: 8.1128e+011 ns
+fen: "r1b1k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/N1P1P1PQ/P3B3/R1B1K2R w Kq - 15 39"
+zobirst hash: a3a0deee3a773f30
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . P . P Q
+ 2 P . . . B . . .
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   889620100 ns
+out of: 3245121613 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4866853
+moves generated: 28633172
+ratio: 0.169973
+making move: a5 to b3
+Opponent's Last Move: 'Qd6'  on turn: 78
+Time Remaining: 8.1011e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1P1PQ/P3B3/R1B1K2R w Kq - 17 40"
+zobirst hash: b4ed2301384273f0
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P . P Q
+ 2 P . . . B . . .
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   874622200 ns
+out of: 3240438214 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4568803
+moves generated: 29721326
+ratio: 0.153721
+making move: h3 to g2
+Opponent's Last Move: 'Bb7'  on turn: 80
+Time Remaining: 8.08914e+011 ns
+fen: "r3k2b/pbn2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1P1P1/P3B1Q1/R1B1K2R w Kq - 19 41"
+zobirst hash: a18e87826d22d597
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P . P .
+ 2 P . . . B . Q .
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1355952500 ns
+out of: 3235654874 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7071909
+moves generated: 46725200
+ratio: 0.151351
+making move: g2 to f3
+Opponent's Last Move: 'Bc8'  on turn: 82
+Time Remaining: 8.07253e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1PQP1/P3B3/R1B1K2R w Kq - 21 42"
+zobirst hash: 4ba7b9d29d01a9c3
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P Q P .
+ 2 P . . . B . . .
+ 1 R . B . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   973692000 ns
+out of: 3229013801 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5167505
+moves generated: 31897733
+ratio: 0.162002
+making move: c1 to b2
+Opponent's Last Move: 'Bb7'  on turn: 84
+Time Remaining: 8.05993e+011 ns
+fen: "r3k2b/pbn2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1PQP1/PB2B3/R3K2R w Kq - 23 43"
+zobirst hash: 3b4b1b5322cf9ab7
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P Q P .
+ 2 P B . . B . . .
+ 1 R . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2301636200 ns
+out of: 3223971156 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11906277
+moves generated: 80289570
+ratio: 0.148292
+making move: a1 to d1
+Opponent's Last Move: 'Nd8'  on turn: 86
+Time Remaining: 8.03366e+011 ns
+fen: "r2nk2b/pbn5/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1PQP1/PB2B3/3RK2R w Kq - 25 44"
+zobirst hash: 724e4600c0eba907
+   a b c d e f g h
+ 8 r . . n k . . b
+ 7 p b n . . . . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P Q P .
+ 2 P B . . B . . .
+ 1 . . . R K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1149807200 ns
+out of: 3213462461 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5902047
+moves generated: 40715620
+ratio: 0.144958
+making move: d1 to d2
+Opponent's Last Move: 'Nf7'  on turn: 88
+Time Remaining: 8.01912e+011 ns
+fen: "r3k2b/pbn2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/NNP1PQP1/PB1RB3/4K2R w Kq - 27 45"
+zobirst hash: c85c19932e74d63c
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 N N P . P Q P .
+ 2 P B . R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1410004700 ns
+out of: 3207648885 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  7443236
+moves generated: 49090666
+ratio: 0.151622
+making move: a3 to c2
+Opponent's Last Move: 'Na6'  on turn: 90
+Time Remaining: 8.00177e+011 ns
+fen: "r3k2b/pb3n2/n1pqp1pr/1p1p1p1p/1P1P1P1P/1NP1PQP1/PBNRB3/4K2R w Kq - 29 46"
+zobirst hash: c28e636efbe48d04
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b . . . n . .
+ 6 n . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 . N P . P Q P .
+ 2 P B N R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   948662100 ns
+out of: 3200706136 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5056144
+moves generated: 33514746
+ratio: 0.150863
+making move: a2 to a3
+Opponent's Last Move: 'Nc7'  on turn: 92
+Time Remaining: 7.98926e+011 ns
+fen: "r3k2b/pbn2n2/2pqp1pr/1p1p1p1p/1P1P1P1P/PNP1PQP1/1BNRB3/4K2R w Kq - 1 47"
+zobirst hash: ab317ce6e1ac4ead
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b n . . n . .
+ 6 . . p q p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P . P Q P .
+ 2 . B N R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1354965400 ns
+out of: 3195703925 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6823982
+moves generated: 45776828
+ratio: 0.149071
+making move: b3 to a5
+Opponent's Last Move: 'Bc8'  on turn: 94
+Time Remaining: 7.97274e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1P1PQP1/1BNRB3/4K2R w Kq - 3 48"
+zobirst hash: 5cc5c161cf53f1af
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P .
+ 2 . B N R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1381982600 ns
+out of: 3189094448 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  7345516
+moves generated: 45454886
+ratio: 0.1616
+making move: f3 to g2
+Opponent's Last Move: 'Qd7'  on turn: 96
+Time Remaining: 7.95578e+011 ns
+fen: "r1b1k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1P1P1/1BNRB1Q1/4K2R w Kq - 5 49"
+zobirst hash: 5655bf5913ba7e39
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P .
+ 2 . B N R B . Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1157823200 ns
+out of: 3182311289 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6028466
+moves generated: 37465874
+ratio: 0.160906
+making move: c2 to a1
+Opponent's Last Move: 'Qd6'  on turn: 98
+Time Remaining: 7.94129e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1P1P1P1/1B1RB1Q1/N3K2R w Kq - 7 50"
+zobirst hash: ec1996252cae08a6
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P .
+ 2 . B . R B . Q .
+ 1 N . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1822297600 ns
+out of: 3176516480 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  7413485
+moves generated: 47097960
+ratio: 0.157406
+making move: a1 to b3
+Opponent's Last Move: 'Qd7'  on turn: 100
+Time Remaining: 7.91996e+011 ns
+fen: "r1b1k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/PNP1P1P1/1B1RB1Q1/4K2R w Kq - 9 51"
+zobirst hash: 9718bafdf3f3af99
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P . P . P .
+ 2 . B . R B . Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1749257500 ns
+out of: 3167984366 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6052836
+moves generated: 38765410
+ratio: 0.15614
+making move: g2 to f3
+Opponent's Last Move: 'Qd6'  on turn: 102
+Time Remaining: 7.89864e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/PNP1PQP1/1B1RB3/4K2R w Kq - 11 52"
+zobirst hash: 9d88c4c52f1a200f
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P . P Q P .
+ 2 . B . R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1325932600 ns
+out of: 3159455531 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6739948
+moves generated: 44104245
+ratio: 0.152819
+making move: e2 to d3
+Opponent's Last Move: 'Qd7'  on turn: 104
+Time Remaining: 7.88236e+011 ns
+fen: "r1b1k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/PNPBPQP1/1B1R4/4K2R w Kq - 13 53"
+zobirst hash: 13fac8d8e600718f
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P B P Q P .
+ 2 . B . R . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1464029800 ns
+out of: 3152944846 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  7248841
+moves generated: 47521660
+ratio: 0.152538
+making move: b3 to c5
+Opponent's Last Move: 'Qd6'  on turn: 106
+Time Remaining: 7.86471e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/NpNp1p1p/1P1P1P1P/P1PBPQP1/1B1R4/4K2R w Kq - 15 54"
+zobirst hash: fc824f1d378a71cf
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . R . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2516792700 ns
+out of: 3145882540 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  12728560
+moves generated: 90082527
+ratio: 0.141299
+making move: d2 to c2
+Opponent's Last Move: 'Rh7'  on turn: 108
+Time Remaining: 7.83642e+011 ns
+fen: "r1b1k2b/p1n2n1r/2pqp1p1/NpNp1p1p/1P1P1P1P/P1PBPQP1/1BR5/4K2R w Kq - 17 55"
+zobirst hash: 5f90175dd3a6c888
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . r
+ 6 . . p q p . p .
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B R . . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2487771200 ns
+out of: 3134568665 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  12663629
+moves generated: 90714580
+ratio: 0.139599
+making move: c2 to f2
+Opponent's Last Move: 'Rh6'  on turn: 110
+Time Remaining: 7.80863e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/NpNp1p1p/1P1P1P1P/P1PBPQP1/1B3R2/4K2R w Kq - 19 56"
+zobirst hash: 898b7073b438260d
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . . . R . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2467755500 ns
+out of: 3123451584 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  12686858
+moves generated: 84864722
+ratio: 0.149495
+making move: f2 to d2
+Opponent's Last Move: 'Rh7'  on turn: 112
+Time Remaining: 7.78101e+011 ns
+fen: "r1b1k2b/p1n2n1r/2pqp1p1/NpNp1p1p/1P1P1P1P/P1PBPQP1/1B1R4/4K2R w Kq - 21 57"
+zobirst hash: 1b78602bae63bc23
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . r
+ 6 . . p q p . p .
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . R . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2636889500 ns
+out of: 3112405759 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  13543904
+moves generated: 94159562
+ratio: 0.14384
+making move: d2 to c2
+Opponent's Last Move: 'Rh6'  on turn: 114
+Time Remaining: 7.75177e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/NpNp1p1p/1P1P1P1P/P1PBPQP1/1BR5/4K2R w Kq - 23 58"
+zobirst hash: b86a386b4a4f0564
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B R . . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1738238600 ns
+out of: 3100706390 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  9086491
+moves generated: 58532892
+ratio: 0.155237
+making move: d3 to e2
+Opponent's Last Move: 'Bg7'  on turn: 116
+Time Remaining: 7.73142e+011 ns
+fen: "r1b1k3/p1n2nb1/2pqp1pr/NpNp1p1p/1P1P1P1P/P1P1PQP1/1BR1B3/4K2R w Kq - 25 59"
+zobirst hash: 5a2b016a74d0fa5e
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 p . n . . n b .
+ 6 . . p q p . p r
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P .
+ 2 . B R . B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2684911700 ns
+out of: 3092569803 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  13852763
+moves generated: 94995123
+ratio: 0.145826
+making move: c2 to d2
+Opponent's Last Move: 'Bh8'  on turn: 118
+Time Remaining: 7.70158e+011 ns
+fen: "r1b1k2b/p1n2n2/2pqp1pr/NpNp1p1p/1P1P1P1P/P1P1PQP1/1B1RB3/4K2R w Kq - 27 60"
+zobirst hash: da0f6d460f2ff91f
+   a b c d e f g h
+ 8 r . b . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P .
+ 2 . B . R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1972403100 ns
+out of: 3080631299 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  10249635
+moves generated: 64375651
+ratio: 0.159216
+making move: c5 to b7
+Opponent's Last Move: 'Bxb7'  on turn: 120
+Time Remaining: 7.6789e+011 ns
+fen: "r3k2b/pbn2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1P1PQP1/1B1RB3/4K2R w Kq - 0 61"
+zobirst hash: c3775d0b9e2a30bc
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p b n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P .
+ 2 . B . R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   556395000 ns
+out of: 3071560521 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  2966712
+moves generated: 19306402
+ratio: 0.153665
+making move: a5 to b7
+Opponent's Last Move: 'Qf8'  on turn: 122
+Time Remaining: 7.67039e+011 ns
+fen: "r3kq1b/pNn2n2/2p1p1pr/1p1p1p1p/1P1P1P1P/P1P1PQP1/1B1RB3/4K2R w Kq - 1 62"
+zobirst hash: f53f2c5cc8337df7
+   a b c d e f g h
+ 8 r . . . k q . b
+ 7 p N n . . n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P .
+ 2 . B . R B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1207857300 ns
+out of: 3068157077 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6375132
+moves generated: 40788121
+ratio: 0.156299
+making move: e2 to d3
+Opponent's Last Move: 'Qe7'  on turn: 124
+Time Remaining: 7.65539e+011 ns
+fen: "r3k2b/pNn1qn2/2p1p1pr/1p1p1p1p/1P1P1P1P/P1PBPQP1/1B1R4/4K2R w Kq - 3 63"
+zobirst hash: fdb60baf3b204472
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p N n . q n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . R . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1765241500 ns
+out of: 3062154540 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  9691697
+moves generated: 55077142
+ratio: 0.175966
+making move: d2 to f2
+Opponent's Last Move: 'Qd7'  on turn: 126
+Time Remaining: 7.6349e+011 ns
+fen: "r3k2b/pNnq1n2/2p1p1pr/1p1p1p1p/1P1P1P1P/P1PBPQP1/1B3R2/4K2R w Kq - 5 64"
+zobirst hash: ed3ae6780086895
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p N n q . n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . . . R . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1825299400 ns
+out of: 3053961685 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  10517625
+moves generated: 53820181
+ratio: 0.195422
+making move: b7 to a5
+Opponent's Last Move: 'Qd6'  on turn: 128
+Time Remaining: 7.6135e+011 ns
+fen: "r3k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1PBPQP1/1B3R2/4K2R w Kq - 7 65"
+zobirst hash: 7b09ba0df218a4f7
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . . . R . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1396993800 ns
+out of: 3045401480 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7724933
+moves generated: 45816307
+ratio: 0.168607
+making move: f3 to g2
+Opponent's Last Move: 'Qd7'  on turn: 130
+Time Remaining: 7.59674e+011 ns
+fen: "r3k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1P1/1B3RQ1/4K2R w Kq - 9 66"
+zobirst hash: 7199c4352ef12b61
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P .
+ 2 . B . . . R Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1347959600 ns
+out of: 3038696383 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7214268
+moves generated: 44780399
+ratio: 0.161103
+making move: f2 to c2
+Opponent's Last Move: 'Nd8'  on turn: 132
+Time Remaining: 7.5797e+011 ns
+fen: "r2nk2b/p1nq4/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1P1/1BR3Q1/4K2R w Kq - 11 67"
+zobirst hash: 76097c18997cfa85
+   a b c d e f g h
+ 8 r . . n k . . b
+ 7 p . n q . . . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P .
+ 2 . B R . . . Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1585114700 ns
+out of: 3031878083 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7484316
+moves generated: 44719418
+ratio: 0.167362
+making move: g2 to f3
+Opponent's Last Move: 'Qg7'  on turn: 134
+Time Remaining: 7.5609e+011 ns
+fen: "r2nk2b/p1n3q1/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBPQP1/1BR5/4K2R w Kq - 13 68"
+zobirst hash: bf6dc91d60fa064c
+   a b c d e f g h
+ 8 r . . n k . . b
+ 7 p . n . . . q .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B R . . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1179838400 ns
+out of: 3024358277 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6070112
+moves generated: 39125811
+ratio: 0.155143
+making move: c2 to h2
+Opponent's Last Move: 'Qf8'  on turn: 136
+Time Remaining: 7.54613e+011 ns
+fen: "r2nkq1b/p1n5/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBPQP1/1B5R/4K2R w Kq - 15 69"
+zobirst hash: 12eca48177db8f18
+   a b c d e f g h
+ 8 r . . n k q . b
+ 7 p . n . . . . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P .
+ 2 . B . . . . . R
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1155821000 ns
+out of: 3018453686 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6179631
+moves generated: 36927752
+ratio: 0.167344
+making move: f3 to e2
+Opponent's Last Move: 'Qd6'  on turn: 138
+Time Remaining: 7.53173e+011 ns
+fen: "r2nk2b/p1n5/2pqp1pr/Np1p1p1p/1P1P1P1P/P1PBP1P1/1B2Q2R/4K2R w Kq - 17 70"
+zobirst hash: 3e5fe1d817719107
+   a b c d e f g h
+ 8 r . . n k . . b
+ 7 p . n . . . . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P .
+ 2 . B . . Q . . R
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1132815600 ns
+out of: 3012691255 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5787639
+moves generated: 36260524
+ratio: 0.159613
+making move: h2 to h3
+Opponent's Last Move: 'Nf7'  on turn: 140
+Time Remaining: 7.51738e+011 ns
+fen: "r3k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B2Q3/4K2R w Kq - 19 71"
+zobirst hash: 57b3b17220b01ec2
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . Q . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1203842400 ns
+out of: 3006952406 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6589744
+moves generated: 37590595
+ratio: 0.175303
+making move: a5 to b7
+Opponent's Last Move: 'Qf8'  on turn: 142
+Time Remaining: 7.50243e+011 ns
+fen: "r3kq1b/pNn2n2/2p1p1pr/1p1p1p1p/1P1P1P1P/P1PBP1PR/1B2Q3/4K2R w Kq - 21 72"
+zobirst hash: 8a013a16a18c18d0
+   a b c d e f g h
+ 8 r . . . k q . b
+ 7 p N n . . n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . Q . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2060467400 ns
+out of: 3000970276 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11452251
+moves generated: 56812841
+ratio: 0.201579
+making move: b7 to a5
+Opponent's Last Move: 'Kd7'  on turn: 144
+Time Remaining: 7.4789e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B2Q3/4K2R w K - 23 73"
+zobirst hash: fc7062268586816d
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . Q . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2304640100 ns
+out of: 2991561612 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  12670464
+moves generated: 73098070
+ratio: 0.173335
+making move: e2 to f2
+Opponent's Last Move: 'Qe8'  on turn: 146
+Time Remaining: 7.453e+011 ns
+fen: "r3q2b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B3Q2/4K2R w K - 25 74"
+zobirst hash: 8dab2ac3f7dfeaa2
+   a b c d e f g h
+ 8 r . . . q . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . . Q . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   976681600 ns
+out of: 2981199442 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5415811
+moves generated: 31195339
+ratio: 0.17361
+making move: f2 to h2
+Opponent's Last Move: 'Qf8'  on turn: 148
+Time Remaining: 7.44031e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B5Q/4K2R w K - 27 75"
+zobirst hash: 9cb63da47baa97b
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . . . . Q
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1299934400 ns
+out of: 2976122553 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7140157
+moves generated: 41131779
+ratio: 0.173592
+making move: h2 to e2
+Opponent's Last Move: 'Qe8'  on turn: 150
+Time Remaining: 7.42449e+011 ns
+fen: "r3q2b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B2Q3/4K2R w K - 29 76"
+zobirst hash: b20a34ecbc2ebbef
+   a b c d e f g h
+ 8 r . . . q . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . Q . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   804572300 ns
+out of: 2969795857 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4783652
+moves generated: 22308099
+ratio: 0.214436
+making move: e2 to g2
+Opponent's Last Move: 'Qe7'  on turn: 152
+Time Remaining: 7.41355e+011 ns
+fen: "r6b/p1nkqn2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B4Q1/4K2R w K - 31 77"
+zobirst hash: 5c3fc3e1015f6bc1
+   a b c d e f g h
+ 8 r . . . . . . b
+ 7 p . n k q n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . . . Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2098492200 ns
+out of: 2965418139 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11359056
+moves generated: 70785585
+ratio: 0.160471
+making move: g2 to f2
+Opponent's Last Move: 'Qf8'  on turn: 154
+Time Remaining: 7.38958e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B3Q2/4K2R w K - 33 78"
+zobirst hash: c3d17c09ce77d020
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . . Q . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   935665500 ns
+out of: 2955832185 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5466144
+moves generated: 25860201
+ratio: 0.211373
+making move: f2 to c2
+Opponent's Last Move: 'Qe8'  on turn: 156
+Time Remaining: 7.37727e+011 ns
+fen: "r3q2b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1BQ5/4K2R w K - 35 79"
+zobirst hash: 9515c9d3e0bcdc0f
+   a b c d e f g h
+ 8 r . . . q . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B Q . . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1356977100 ns
+out of: 2950906352 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7486933
+moves generated: 43752293
+ratio: 0.171121
+making move: c2 to f2
+Opponent's Last Move: 'Qd8'  on turn: 158
+Time Remaining: 7.36082e+011 ns
+fen: "r2q3b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBP1PR/1B3Q2/4K2R w K - 37 80"
+zobirst hash: 8efc807b6bda4a16
+   a b c d e f g h
+ 8 r . . q . . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P . P R
+ 2 . B . . . Q . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   839598000 ns
+out of: 2944328961 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4790852
+moves generated: 22399034
+ratio: 0.213887
+making move: f2 to f3
+Opponent's Last Move: 'Qf8'  on turn: 160
+Time Remaining: 7.34932e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1PBPQPR/1B6/4K2R w K - 39 81"
+zobirst hash: d0549637e7bf8c52
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P B P Q P R
+ 2 . B . . . . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2254592900 ns
+out of: 2939728808 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  12024326
+moves generated: 75020431
+ratio: 0.160281
+making move: d3 to e2
+Opponent's Last Move: 'Qe8'  on turn: 162
+Time Remaining: 7.32392e+011 ns
+fen: "r3q2b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1PQPR/1B2B3/4K2R w K - 41 82"
+zobirst hash: b8a3e2a6e6b23e00
+   a b c d e f g h
+ 8 r . . . q . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P Q P R
+ 2 . B . . B . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1539103500 ns
+out of: 2929568684 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  8332975
+moves generated: 48208910
+ratio: 0.172851
+making move: f3 to g2
+Opponent's Last Move: 'Qf8'  on turn: 164
+Time Remaining: 7.30563e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1P1PR/1B2B1Q1/4K2R w K - 43 83"
+zobirst hash: 54b6e412f24c5244
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P R
+ 2 . B . . B . Q .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1912375600 ns
+out of: 2922252827 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  10207214
+moves generated: 61949665
+ratio: 0.164766
+making move: g2 to f1
+Opponent's Last Move: 'Qe7'  on turn: 166
+Time Remaining: 7.28353e+011 ns
+fen: "r6b/p1nkqn2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1P1PR/1B2B3/4KQ1R w K - 45 84"
+zobirst hash: 71dc95b2ad7f4afd
+   a b c d e f g h
+ 8 r . . . . . . b
+ 7 p . n k q n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P R
+ 2 . B . . B . . .
+ 1 . . . . K Q . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1339951100 ns
+out of: 2913413769 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  7418369
+moves generated: 42795063
+ratio: 0.173346
+making move: e2 to f3
+Opponent's Last Move: 'Qd6'  on turn: 168
+Time Remaining: 7.26725e+011 ns
+fen: "r6b/p1nk1n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1P1PBPR/1B6/4KQ1R w K - 47 85"
+zobirst hash: 5abf13b5d7fd41c3
+   a b c d e f g h
+ 8 r . . . . . . b
+ 7 p . n k . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P B P R
+ 2 . B . . . . . .
+ 1 . . . . K Q . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1490046800 ns
+out of: 2906899018 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8271077
+moves generated: 48763605
+ratio: 0.169616
+making move: f1 to e2
+Opponent's Last Move: 'Qf8'  on turn: 170
+Time Remaining: 7.2493e+011 ns
+fen: "r4q1b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1PBPR/1B2Q3/4K2R w K - 49 86"
+zobirst hash: df0d729a0e84a0f6
+   a b c d e f g h
+ 8 r . . . . q . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P B P R
+ 2 . B . . Q . . .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   2194560900 ns
+out of: 2899718318 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  11958531
+moves generated: 73748276
+ratio: 0.162153
+making move: f3 to g2
+Opponent's Last Move: 'Qe8'  on turn: 172
+Time Remaining: 7.22447e+011 ns
+fen: "r3q2b/p1nk1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1P1PR/1B2Q1B1/4K2R w K - 51 87"
+zobirst hash: 52f7b633c843a1e5
+   a b c d e f g h
+ 8 r . . . q . . b
+ 7 p . n k . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P R
+ 2 . B . . Q . B .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1468045200 ns
+out of: 2889788142 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8214858
+moves generated: 45123042
+ratio: 0.182055
+making move: a5 to b7
+Opponent's Last Move: 'Qe7'  on turn: 174
+Time Remaining: 7.20699e+011 ns
+fen: "r6b/pNnkqn2/2p1p1pr/1p1p1p1p/1P1P1P1P/P1P1P1PR/1B2Q1B1/4K2R w K - 53 88"
+zobirst hash: efacdf7db9f23f00
+   a b c d e f g h
+ 8 r . . . . . . b
+ 7 p N n k q n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P R
+ 2 . B . . Q . B .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1536080300 ns
+out of: 2882794534 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8641576
+moves generated: 40769852
+ratio: 0.21196
+making move: b7 to c5
+Opponent's Last Move: 'Ke8'  on turn: 176
+Time Remaining: 7.18869e+011 ns
+fen: "r3k2b/p1n1qn2/2p1p1pr/1pNp1p1p/1P1P1P1P/P1P1P1PR/1B2Q1B1/4K2R w K - 55 89"
+zobirst hash: da60788522fd0754
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n . q n . .
+ 6 . . p . p . p r
+ 5 . p N p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P R
+ 2 . B . . Q . B .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1063768000 ns
+out of: 2875476027 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5699534
+moves generated: 33994793
+ratio: 0.167659
+making move: c5 to b3
+Opponent's Last Move: 'Qf8'  on turn: 178
+Time Remaining: 7.17517e+011 ns
+fen: "r3kq1b/p1n2n2/2p1p1pr/1p1p1p1p/1P1P1P1P/PNP1P1PR/1B2Q1B1/4K2R w K - 57 90"
+zobirst hash: b3e3d4aec97e6f11
+   a b c d e f g h
+ 8 r . . . k q . b
+ 7 p . n . . n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P . P . P R
+ 2 . B . . Q . B .
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1570116800 ns
+out of: 2870068963 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  8351911
+moves generated: 49700761
+ratio: 0.168044
+making move: h3 to h2
+Opponent's Last Move: 'Qe7'  on turn: 180
+Time Remaining: 7.15657e+011 ns
+fen: "r3k2b/p1n1qn2/2p1p1pr/1p1p1p1p/1P1P1P1P/PNP1P1P1/1B2Q1BR/4K2R w K - 59 91"
+zobirst hash: c27a71997cf3a30c
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n . q n . .
+ 6 . . p . p . p r
+ 5 . p . p . p . p
+ 4 . P . P . P . P
+ 3 P N P . P . P .
+ 2 . B . . Q . B R
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   788561100 ns
+out of: 2862629216 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4342424
+moves generated: 26293724
+ratio: 0.165151
+making move: b3 to a5
+Opponent's Last Move: 'Qd7'  on turn: 182
+Time Remaining: 7.14539e+011 ns
+fen: "r3k2b/p1nq1n2/2p1p1pr/Np1p1p1p/1P1P1P1P/P1P1P1P1/1B2Q1BR/4K2R w K - 61 92"
+zobirst hash: fba43896b7e34db9
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n q . n . .
+ 6 . . p . p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P .
+ 2 . B . . Q . B R
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1091778000 ns
+out of: 2858155668 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  5941115
+moves generated: 35699261
+ratio: 0.166421
+making move: g2 to h3
+Opponent's Last Move: 'Qd6'  on turn: 184
+Time Remaining: 7.13163e+011 ns
+fen: "r3k2b/p1n2n2/2pqp1pr/Np1p1p1p/1P1P1P1P/P1P1P1PB/1B2Q2R/4K2R w K - 63 93"
+zobirst hash: 424c043ab01ae021
+   a b c d e f g h
+ 8 r . . . k . . b
+ 7 p . n . . n . .
+ 6 . . p q p . p r
+ 5 N p . p . p . p
+ 4 . P . P . P . P
+ 3 P . P . P . P B
+ 2 . B . . Q . . R
+ 1 . . . . K . . R
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+im running with transposition
+took:   1123796900 ns
+out of: 2852652217 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6360078
+moves generated: 35551968
+ratio: 0.178895
+making move: e2 to f3
+game ending board state:
+   +------------------------+
+ 8 | r  .  .  .  k  .  .  b |
+ 7 | p  .  n  .  .  n  .  . |
+ 6 | .  .  p  q  p  .  p  r |
+ 5 | N  p  .  p  .  p  .  p |
+ 4 | .  P  .  P  .  P  .  P |
+ 3 | P  .  P  .  P  Q  P  B |
+ 2 | .  B  .  .  .  .  .  R |
+ 1 | .  .  .  .  K  .  .  R |
+   +------------------------+
+     a  b  c  d  e  f  g  h
+total turns: 185
+grandNodesExplored:  831198853
+grandMovesGenerated: 5193579790
+Scoped Benchmarking results:
+alpha beta average: 1,717,963,748 ns  total: 159,770,628,600 ns  Samples: 93
+note: averages below 5,000 ns can be fuzzy as the benchmark finished too fast
+?[32mGame is over. I won! because: All other players timed out.
+?[0m?[36m---
+Your gamelog is viewable at:
+http://vis.siggame.io/?log=http%3A%2F%2Fr99acm.device.mst.edu%3A3080%2Fgamelog%2F2017.04.03.15.44.03.241-Chess-session1
+---?[0m
+
+Process finished with exit code 0

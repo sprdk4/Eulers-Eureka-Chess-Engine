@@ -1,0 +1,167 @@
+1488774611
+winner:
+move gen bitboard average: 30,521,900 ns  total:   549,394,200 ns  Samples: 18
+move gen old      average: 60,600,322 ns  total: 1,090,805,800 ns  Samples: 18	0.50330033003300330033003300330033
+move gen bitboard average: 30,161,138 ns  total: 542,900,500 ns  Samples: 18
+move gen old      average: 55,150,811 ns  total: 992,714,600 ns  Samples: 18	0.54689029918404351767905711695376
+move gen bitboard average: 29,492,550 ns  total:   530,865,900 ns  Samples: 18
+move gen old      average: 56,958,733 ns  total: 1,025,257,200 ns  Samples: 18	0.51778503458688858457108746795885
+move gen bitboard average: 27,632,783 ns  total: 497,390,100 ns  Samples: 18
+move gen old      average: 53,595,627 ns  total: 964,721,300 ns  Samples: 18	0.51557906020952045210703477729629
+move gen bitboard average: 29,964,022 ns  total:   539,352,400 ns  Samples: 18
+move gen old      average: 56,376,566 ns  total: 1,014,778,200 ns  Samples: 18	0.53150276713495104299702000851426
+move gen bitboard average: 26,714,783 ns  total:   480,866,100 ns  Samples: 18
+move gen old      average: 56,234,216 ns  total: 1,012,215,900 ns  Samples: 18	0.47505068108261905608706476508874
+
+move gen bitboard average: 30,800,411 ns  total: 554,407,400 ns  Samples: 18	
+move gen old      average: 55,540,477 ns  total: 999,728,600 ns  Samples: 18	0.55455527547713359740727403673028
+move gen bitboard average: 32,912,200 ns  total:   592,419,600 ns  Samples: 18
+move gen old      average: 62,044,005 ns  total: 1,116,792,100 ns  Samples: 18	0.53046225259493262845722390561537
+move gen bitboard average: 32,523,627 ns  total:   585,425,300 ns  Samples: 18
+move gen old      average: 61,934,050 ns  total: 1,114,812,900 ns  Samples: 18	0.52513321831851784276984954156881
+move gen bitboard average: 32,355,722 ns  total:   582,403,000 ns  Samples: 18
+move gen old      average: 66,216,300 ns  total: 1,191,893,400 ns  Samples: 18	0.4886368160105593335779860849972
+move gen bitboard average: 36,858,888 ns  total:   663,460,000 ns  Samples: 18
+move gen old      average: 69,384,388 ns  total: 1,248,919,000 ns  Samples: 18	0.53122739945475918876736363229146
+
+move gen bitboard average: 27,740,211 ns  total: 499,323,800 ns  Samples: 18
+move gen old      average: 53,318,538 ns  total: 959,733,700 ns  Samples: 18	0.52029204176603642057852373971694
+move gen bitboard average: 27,909,477 ns  total: 502,370,600 ns  Samples: 18
+move gen old      average: 52,593,144 ns  total: 946,676,600 ns  Samples: 18	0.5306675904372630774840157873049
+move gen bitboard average: 27,742,405 ns  total: 499,363,300 ns  Samples: 18
+move gen old      average: 51,872,111 ns  total: 933,698,000 ns  Samples: 18	0.5306675904372630774840157873049
+
+move gen bitboard average: 27,630,827 ns  total: 497,354,900 ns  Samples: 18
+move gen old      average: 53,095,111 ns  total: 955,712,000 ns  Samples: 18	0.52040247170779998934365162170958
+move gen bitboard average: 29,299,905 ns  total:   527,398,300 ns  Samples: 18
+move gen old      average: 58,989,411 ns  total: 1,061,809,400 ns  Samples: 18	0.49669770393198196198297352045098
+move gen bitboard average: 30,299,588 ns  total:   545,392,600 ns  Samples: 18
+move gen old      average: 61,489,938 ns  total: 1,106,818,900 ns  Samples: 18	0.49275684746990637720272217545576
+move gen bitboard average: 27,185,627 ns  total:   489,341,300 ns  Samples: 18
+move gen old      average: 56,930,466 ns  total: 1,024,748,400 ns  Samples: 18	0.47752335278618657363528343505918
+
+move gen bitboard average: 30,801,722 ns  total:   554,431,000 ns  Samples: 18
+move gen old      average: 59,653,616 ns  total: 1,073,765,100 ns  Samples: 18	0.5163429154068380364402385934157
+move gen bitboard average: 32,188,338 ns  total:   579,390,100 ns  Samples: 18
+move gen old      average: 60,769,511 ns  total: 1,093,851,200 ns  Samples: 18	0.5296790688343699194814978846876
+move gen bitboard average: 32,967,188 ns  total:   593,409,400 ns  Samples: 18
+move gen old      average: 64,381,527 ns  total: 1,158,867,500 ns  Samples: 18	0.51205974036620784095412959061999
+move gen bitboard average: 35,580,094 ns  total:   640,441,700 ns  Samples: 18
+move gen old      average: 67,381,683 ns  total: 1,212,870,300 ns  Samples: 18	0.52803807230519902567586505668017
+
+
+loser:
+move gen bitboard average: 41,252,122 ns  total:   742,538,200 ns  Samples: 18
+move gen old      average: 63,269,350 ns  total: 1,138,848,300 ns  Samples: 18	0.65200799439222941281995152471141
+move gen bitboard average: 40,750,450 ns  total:   733,508,100 ns  Samples: 18
+move gen old      average: 60,405,633 ns  total: 1,087,301,400 ns  Samples: 18	0.67461340898455612575072261886569
+move gen bitboard average: 35,971,111 ns  total:   647,480,000 ns  Samples: 18
+move gen old      average: 60,738,677 ns  total: 1,093,296,200 ns  Samples: 18	0.59222743689329947045109329595704
+move gen bitboard average: 42,251,700 ns  total:   760,530,600 ns  Samples: 18
+move gen old      average: 61,519,811 ns  total: 1,107,356,600 ns  Samples: 18	0.68679827381134184563733461404815
+move gen bitboard average: 37,388,011 ns  total:   672,984,200 ns  Samples: 18
+move gen old      average: 65,550,127 ns  total: 1,179,902,300 ns  Samples: 18	0.57037282322885507147835121661931
+move gen bitboard average: 37,696,600 ns  total:   678,538,800 ns  Samples: 18
+move gen old      average: 58,096,155 ns  total: 1,045,730,800 ns  Samples: 18	0.64886566073090379217006702078649
+
+move gen bitboard average: 37,138,244 ns  total:   668,488,400 ns  Samples: 18
+move gen old      average: 57,932,550 ns  total: 1,042,785,900 ns  Samples: 18	0.64106006036330180528908187193555
+move gen bitboard average: 44,365,633 ns  total:   798,581,400 ns  Samples: 18
+move gen old      average: 65,269,944 ns  total: 1,174,859,000 ns  Samples: 18	0.6797253112397338658663473037452
+move gen bitboard average: 41,528,788 ns  total:   747,518,200 ns  Samples: 18
+move gen old      average: 70,996,194 ns  total: 1,277,931,500 ns  Samples: 18	0.58494386332878632902490519421365
+move gen bitboard average: 47,700,811 ns  total:   858,614,600 ns  Samples: 18
+move gen old      average: 71,383,877 ns  total: 1,284,909,800 ns  Samples: 18	0.66822947988661361164230404577213
+
+move gen bitboard average: 39,361,811 ns  total: 708,512,600 ns  Samples: 18
+move gen old      average: 55,430,055 ns  total: 997,741,000 ns  Samples: 18	0.710116758859431043321172962935
+move gen bitboard average: 37,972,738 ns  total: 683,509,300 ns  Samples: 18
+move gen old      average: 55,485,200 ns  total: 998,733,600 ns  Samples: 18	0.68437597773820766618846106709537
+move gen bitboard average: 34,971,638 ns  total:   629,489,500 ns  Samples: 18
+move gen old      average: 57,874,244 ns  total: 1,041,736,400 ns  Samples: 18	0.6042694570662555868548364968707
+
+move gen bitboard average: 35,804,400 ns  total:   644,479,200 ns  Samples: 18
+move gen old      average: 56,208,405 ns  total: 1,011,751,300 ns  Samples: 18	0.63699370227637663797789672202938
+move gen bitboard average: 41,973,972 ns  total:   755,531,500 ns  Samples: 18
+move gen old      average: 65,049,511 ns  total: 1,170,891,200 ns  Samples: 18	0.64526191442084783696529248313642
+move gen bitboard average: 44,420,933 ns  total:   799,576,800 ns  Samples: 18
+move gen old      average: 69,049,172 ns  total: 1,242,885,100 ns  Samples: 18	0.64332318134097248841738464293243
+move gen bitboard average: 39,861,527 ns  total:   717,507,500 ns  Samples: 18
+move gen old      average: 63,378,888 ns  total: 1,140,820,000 ns  Samples: 18	0.62894014486338100472826219355568
+
+move gen bitboard average: 41,082,294 ns  total:   739,481,300 ns  Samples: 18
+move gen old      average: 62,379,855 ns  total: 1,122,837,400 ns  Samples: 18	0.65858271071646447398763591226687
+move gen bitboard average: 41,306,888 ns  total:   743,524,000 ns  Samples: 18
+move gen old      average: 65,658,711 ns  total: 1,181,856,800 ns  Samples: 18	0.62911512228742961463255043188405
+move gen bitboard average: 44,086,083 ns  total:   793,549,500 ns  Samples: 18
+move gen old      average: 65,213,538 ns  total: 1,173,843,700 ns  Samples: 18	0.67602654835258286400593692677738
+move gen bitboard average: 40,975,266 ns  total:   737,554,800 ns  Samples: 18
+move gen old      average: 66,158,444 ns  total: 1,190,852,000 ns  Samples: 18	0.61935050951319229938358284242598
+
+
+
+
+
+
+
+
+
+
+random seed: 1489019032
+winner:
+board and bitboard using shared_ptr<Move>
+move gen bitboard average: 47,383,764 ns  total:   805,524,000 ns  Samples: 17
+move gen old      average: 73,232,182 ns  total: 1,244,947,100 ns  Samples: 17
+move gen bitboard average: 50,448,094 ns  total:   857,617,600 ns  Samples: 17
+move gen old      average: 78,468,894 ns  total: 1,333,971,200 ns  Samples: 17
+move gen bitboard average: 45,855,370 ns  total:   779,541,300 ns  Samples: 17
+move gen old      average: 67,519,200 ns  total: 1,147,826,400 ns  Samples: 17
+move gen bitboard average: 47,856,917 ns  total:   813,567,600 ns  Samples: 17
+move gen old      average: 73,936,205 ns  total: 1,256,915,500 ns  Samples: 17
+
+board using shared_ptr<Move>, bitboard using just Move
+move gen bitboard average:  6,298,605 ns  total:   107,076,300 ns  Samples: 17
+move gen old      average: 68,813,888 ns  total: 1,169,836,100 ns  Samples: 17
+move gen bitboard average:  5,768,782 ns  total:    98,069,300 ns  Samples: 17
+move gen old      average: 64,575,882 ns  total: 1,097,790,000 ns  Samples: 17
+move gen bitboard average:  5,826,311 ns  total:    99,047,300 ns  Samples: 17
+move gen old      average: 63,459,052 ns  total: 1,078,803,900 ns  Samples: 17
+
+board and bitboard using just Move
+move gen bitboard average:  6,593,188 ns  total: 112,084,200 ns  Samples: 17
+move gen old      average: 27,314,576 ns  total: 464,347,800 ns  Samples: 17
+move gen bitboard average:  5,709,211 ns  total:  97,056,600 ns  Samples: 17
+move gen old      average: 24,372,547 ns  total: 414,333,300 ns  Samples: 17
+move gen bitboard average:  6,768,188 ns  total: 115,059,200 ns  Samples: 17
+move gen old      average: 28,256,876 ns  total: 480,366,900 ns  Samples: 17
+move gen bitboard average:  5,768,152 ns  total:  98,058,600 ns  Samples: 17
+move gen old      average: 23,841,917 ns  total: 405,312,600 ns  Samples: 17
+loser:
+board and bitboard using shared_ptr<Move>
+move gen bitboard average: 25,080,987 ns  total: 401,295,800 ns  Samples: 16
+move gen old      average: 43,968,612 ns  total: 703,497,800 ns  Samples: 16
+move gen bitboard average: 25,955,768 ns  total: 415,292,300 ns  Samples: 16
+move gen old      average: 46,783,268 ns  total: 748,532,300 ns  Samples: 16
+move gen bitboard average: 24,329,806 ns  total: 389,276,900 ns  Samples: 16
+move gen old      average: 42,968,500 ns  total: 687,496,000 ns  Samples: 16
+move gen bitboard average: 24,704,887 ns  total: 395,278,200 ns  Samples: 16
+move gen old      average: 45,470,593 ns  total: 727,529,500 ns  Samples: 16
+
+board using shared_ptr<Move>, bitboard using just Move
+move gen bitboard average:  4,064,750 ns  total:  65,036,000 ns  Samples: 16
+move gen old      average: 42,343,043 ns  total: 677,488,700 ns  Samples: 16
+move gen bitboard average:  4,314,868 ns  total:  69,037,900 ns  Samples: 16
+move gen old      average: 37,903,893 ns  total: 606,462,300 ns  Samples: 16
+move gen bitboard average:  4,252,300 ns  total:  68,036,800 ns  Samples: 16
+move gen old      average: 38,842,962 ns  total: 621,487,400 ns  Samples: 16
+
+board and bitboard using just Move
+move gen bitboard average:  5,189,968 ns  total:  83,039,500 ns  Samples: 16
+move gen old      average: 21,954,950 ns  total: 351,279,200 ns  Samples: 16
+move gen bitboard average:  4,378,143 ns  total:  70,050,300 ns  Samples: 16
+move gen old      average: 16,950,337 ns  total: 271,205,400 ns  Samples: 16
+move gen bitboard average:  5,003,550 ns  total:  80,056,800 ns  Samples: 16
+move gen old      average: 22,515,800 ns  total: 360,252,800 ns  Samples: 16
+move gen bitboard average:  4,065,475 ns  total:  65,047,600 ns  Samples: 16
+move gen old      average: 20,014,150 ns  total: 320,226,400 ns  Samples: 16
+

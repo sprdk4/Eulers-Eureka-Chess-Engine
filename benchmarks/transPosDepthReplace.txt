@@ -1,0 +1,2516 @@
+"C:\Users\Shawn Roach\Desktop\cs5400\Chess1\eulers-eureka-shawn-roach\cmake-build-release\cpp-client.exe" Chess -s r99acm.device.mst.edu -r session1
+?[36mConnecting to: r99acm.device.mst.edu:3000
+?[0m?[36mIn lobby for game 'Chess' in session 'session1'.?[0m
+?[32mGame is starting.?[0m
+I'm White
+seed = 1491249847;
+Time Remaining: 9e+011 ns
+fen: "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+zobirst hash: 463b96181691fc9c
+   a b c d e f g h
+ 8 r n b q k b n r
+ 7 p p p p p p p p
+ 6 . . . . . . . .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . . . . .
+ 2 P P P P P P P P
+ 1 R N B Q K B N R
+im running with transposition
+took:   3364395700 ns
+out of: 3600000000 ns
+went to depth: 8
+minimax result: 11
+nodes explored:  13532808
+moves generated: 73454201
+ratio: 0.184235
+making move: g2 to g3
+Opponent's Last Move: 'g6'  on turn: 2
+Time Remaining: 8.96487e+011 ns
+fen: "rnbqkbnr/pppppp1p/6p1/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2"
+zobirst hash: 83697e028dc9b6ef
+   a b c d e f g h
+ 8 r n b q k b n r
+ 7 p p p p p p . p
+ 6 . . . . . . p .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . . . P .
+ 2 P P P P P P . P
+ 1 R N B Q K B N R
+im running with transposition
+took:   2167542900 ns
+out of: 3585949670 ns
+went to depth: 8
+minimax result: 12
+nodes explored:  11114620
+moves generated: 60882454
+ratio: 0.182559
+making move: f1 to g2
+Opponent's Last Move: 'Bg7'  on turn: 4
+Time Remaining: 8.94197e+011 ns
+fen: "rnbqk1nr/ppppppbp/6p1/8/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3"
+zobirst hash: 862560c93b63a53c
+   a b c d e f g h
+ 8 r n b q k . n r
+ 7 p p p p p p b p
+ 6 . . . . . . p .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . . . P .
+ 2 P P P P P P B P
+ 1 R N B Q K . N R
+im running with transposition
+took:   2271618400 ns
+out of: 3576789112 ns
+went to depth: 8
+minimax result: 13
+nodes explored:  11126019
+moves generated: 70877464
+ratio: 0.156975
+making move: e2 to e3
+Opponent's Last Move: 'c6'  on turn: 6
+Time Remaining: 8.91789e+011 ns
+fen: "rnbqk1nr/pp1pppbp/2p3p1/8/8/4P1P1/PPPP1PBP/RNBQK1NR w KQkq - 0 4"
+zobirst hash: b972cf9468fcfe23
+   a b c d e f g h
+ 8 r n b q k . n r
+ 7 p p . p p p b p
+ 6 . . p . . . p .
+ 5 . . . . . . . .
+ 4 . . . . . . . .
+ 3 . . . . P . P .
+ 2 P P P P . P B P
+ 1 R N B Q K . N R
+im running with transposition
+took:   2432732000 ns
+out of: 3567157575 ns
+went to depth: 8
+minimax result: 13
+nodes explored:  11878787
+moves generated: 78020153
+ratio: 0.152253
+making move: b1 to a3
+Opponent's Last Move: 'd5'  on turn: 8
+Time Remaining: 8.89229e+011 ns
+fen: "rnbqk1nr/pp2ppbp/2p3p1/3p4/8/N3P1P1/PPPP1PBP/R1BQK1NR w KQkq d6 0 5"
+zobirst hash: 3bfe3dd3197a9fcb
+   a b c d e f g h
+ 8 r n b q k . n r
+ 7 p p . . p p b p
+ 6 . . p . . . p .
+ 5 . . . p . . . .
+ 4 . . . . . . . .
+ 3 N . . . P . P .
+ 2 P P P P . P B P
+ 1 R . B Q K . N R
+im running with transposition
+took:   1100796400 ns
+out of: 3556914529 ns
+went to depth: 8
+minimax result: 13
+nodes explored:  5312469
+moves generated: 36556171
+ratio: 0.145323
+making move: c2 to c3
+Opponent's Last Move: 'f5'  on turn: 10
+Time Remaining: 8.87994e+011 ns
+fen: "rnbqk1nr/pp2p1bp/2p3p1/3p1p2/8/N1P1P1P1/PP1P1PBP/R1BQK1NR w KQkq f6 0 6"
+zobirst hash: d94ba3d27782bd93
+   a b c d e f g h
+ 8 r n b q k . n r
+ 7 p p . . p . b p
+ 6 . . p . . . p .
+ 5 . . . p . p . .
+ 4 . . . . . . . .
+ 3 N . P . P . P .
+ 2 P P . P . P B P
+ 1 R . B Q K . N R
+im running with transposition
+took:   2145528800 ns
+out of: 3551976297 ns
+went to depth: 8
+minimax result: 15
+nodes explored:  10119933
+moves generated: 67281094
+ratio: 0.150413
+making move: h2 to h4
+Opponent's Last Move: 'Qd6'  on turn: 12
+Time Remaining: 8.85715e+011 ns
+fen: "rnb1k1nr/pp2p1bp/2pq2p1/3p1p2/7P/N1P1P1P1/PP1P1PB1/R1BQK1NR w KQkq - 1 7"
+zobirst hash: f084546bd4a4c8f2
+   a b c d e f g h
+ 8 r n b . k . n r
+ 7 p p . . p . b p
+ 6 . . p q . . p .
+ 5 . . . p . p . .
+ 4 . . . . . . . P
+ 3 N . P . P . P .
+ 2 P P . P . P B .
+ 1 R . B Q K . N R
+im running with transposition
+took:   1800284100 ns
+out of: 3542859564 ns
+went to depth: 8
+minimax result: 15
+nodes explored:  8630453
+moves generated: 65505289
+ratio: 0.131752
+making move: a3 to c2
+Opponent's Last Move: 'Nh6'  on turn: 14
+Time Remaining: 8.83787e+011 ns
+fen: "rnb1k2r/pp2p1bp/2pq2pn/3p1p2/7P/2P1P1P1/PPNP1PB1/R1BQK1NR w KQkq - 3 8"
+zobirst hash: d9f99fdce8b2b35a
+   a b c d e f g h
+ 8 r n b . k . . r
+ 7 p p . . p . b p
+ 6 . . p q . . p n
+ 5 . . . p . p . .
+ 4 . . . . . . . P
+ 3 . . P . P . P .
+ 2 P P N P . P B .
+ 1 R . B Q K . N R
+im running with transposition
+took:   4217004000 ns
+out of: 3535147750 ns
+went to depth: 8
+minimax result: 16
+nodes explored:  21331749
+moves generated: 136627943
+ratio: 0.15613
+making move: b2 to b3
+Opponent's Last Move: 'Nd7'  on turn: 16
+Time Remaining: 8.79436e+011 ns
+fen: "r1b1k2r/pp1np1bp/2pq2pn/3p1p2/7P/1PP1P1P1/P1NP1PB1/R1BQK1NR w KQkq - 1 9"
+zobirst hash: 66bc84d5d29735fb
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n p . b p
+ 6 . . p q . . p n
+ 5 . . . p . p . .
+ 4 . . . . . . . P
+ 3 . P P . P . P .
+ 2 P . N P . P B .
+ 1 R . B Q K . N R
+im running with transposition
+took:   3236305200 ns
+out of: 3517743879 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  16162294
+moves generated: 106739334
+ratio: 0.151418
+making move: g1 to h3
+Opponent's Last Move: 'Qf6'  on turn: 18
+Time Remaining: 8.76063e+011 ns
+fen: "r1b1k2r/pp1np1bp/2p2qpn/3p1p2/7P/1PP1P1PN/P1NP1PB1/R1BQK2R w KQkq - 3 10"
+zobirst hash: 47f08ea7586580da
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n p . b p
+ 6 . . p . . q p n
+ 5 . . . p . p . .
+ 4 . . . . . . . P
+ 3 . P P . P . P N
+ 2 P . N P . P B .
+ 1 R . B Q K . . R
+im running with transposition
+took:   2942096700 ns
+out of: 3504253020 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  14511496
+moves generated: 94665115
+ratio: 0.153293
+making move: d2 to d4
+Opponent's Last Move: 'Nf7'  on turn: 20
+Time Remaining: 8.72998e+011 ns
+fen: "r1b1k2r/pp1npnbp/2p2qp1/3p1p2/3P3P/1PP1P1PN/P1N2PB1/R1BQK2R w KQkq - 1 11"
+zobirst hash: 424404310157202a
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n p n b p
+ 6 . . p . . q p .
+ 5 . . . p . p . .
+ 4 . . . P . . . P
+ 3 . P P . P . P N
+ 2 P . N . . P B .
+ 1 R . B Q K . . R
+im running with transposition
+took:   4752396000 ns
+out of: 3491990542 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  24549271
+moves generated: 148134133
+ratio: 0.165723
+making move: d1 to e2
+Opponent's Last Move: 'Nb6'  on turn: 22
+Time Remaining: 8.68112e+011 ns
+fen: "r1b1k2r/pp2pnbp/1np2qp1/3p1p2/3P3P/1PP1P1PN/P1N1QPB1/R1B1K2R w KQkq - 3 12"
+zobirst hash: c08ed84334586ca0
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . . p n b p
+ 6 . n p . . q p .
+ 5 . . . p . p . .
+ 4 . . . P . . . P
+ 3 . P P . P . P N
+ 2 P . N . Q P B .
+ 1 R . B . K . . R
+im running with transposition
+took:   5698059500 ns
+out of: 3472449916 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  24128311
+moves generated: 162175838
+ratio: 0.148779
+making move: a2 to a4
+Opponent's Last Move: 'e6'  on turn: 24
+Time Remaining: 8.62289e+011 ns
+fen: "r1b1k2r/pp3nbp/1np1pqp1/3p1p2/P2P3P/1PP1P1PN/2N1QPB1/R1B1K2R w KQkq - 0 13"
+zobirst hash: dd30549e41e9293c
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . . . n b p
+ 6 . n p . p q p .
+ 5 . . . p . p . .
+ 4 P . . P . . . P
+ 3 . P P . P . P N
+ 2 . . N . Q P B .
+ 1 R . B . K . . R
+im running with transposition
+took:   13469594500 ns
+out of: 3449155839 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  65291530
+moves generated: 467553520
+ratio: 0.139645
+making move: a4 to a5
+Opponent's Last Move: 'Nd7'  on turn: 26
+Time Remaining: 8.48677e+011 ns
+fen: "r1b1k2r/pp1n1nbp/2p1pqp1/P2p1p2/3P3P/1PP1P1PN/2N1QPB1/R1B1K2R w KQkq - 1 14"
+zobirst hash: 2a8ff0f06df82003
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n . n b p
+ 6 . . p . p q p .
+ 5 P . . p . p . .
+ 4 . . . P . . . P
+ 3 . P P . P . P N
+ 2 . . N . Q P B .
+ 1 R . B . K . . R
+im running with transposition
+took:   15993392500 ns
+out of: 3394708704 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  74177405
+moves generated: 537020309
+ratio: 0.138128
+making move: b3 to b4
+Opponent's Last Move: 'h5'  on turn: 28
+Time Remaining: 8.32552e+011 ns
+fen: "r1b1k2r/pp1n1nb1/2p1pqp1/P2p1p1p/1P1P3P/2P1P1PN/2N1QPB1/R1B1K2R w KQkq h6 0 15"
+zobirst hash: e9545dd9b9c40334
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n . n b .
+ 6 . . p . p q p .
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 . . P . P . P N
+ 2 . . N . Q P B .
+ 1 R . B . K . . R
+im running with transposition
+took:   11843438200 ns
+out of: 3330207882 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  51449000
+moves generated: 336574704
+ratio: 0.152861
+making move: e2 to f3
+Opponent's Last Move: 'Bh6'  on turn: 30
+Time Remaining: 8.20576e+011 ns
+fen: "r1b1k2r/pp1n1n2/2p1pqpb/P2p1p1p/1P1P3P/2P1PQPN/2N2PB1/R1B1K2R w KQkq - 2 16"
+zobirst hash: 3de8d192452c54ce
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 p p . n . n . .
+ 6 . . p . p q p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 . . P . P Q P N
+ 2 . . N . . P B .
+ 1 R . B . K . . R
+im running with transposition
+took:   5840665000 ns
+out of: 3282304393 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  25434285
+moves generated: 170941323
+ratio: 0.14879
+making move: a1 to a3
+Opponent's Last Move: 'a6'  on turn: 32
+Time Remaining: 8.14612e+011 ns
+fen: "r1b1k2r/1p1n1n2/p1p1pqpb/P2p1p1p/1P1P3P/R1P1PQPN/2N2PB1/2B1K2R w Kkq - 0 17"
+zobirst hash: 20f39d614105e6dc
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n . n . .
+ 6 p . p . p q p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 R . P . P Q P N
+ 2 . . N . . P B .
+ 1 . . B . K . . R
+im running with transposition
+took:   4580775700 ns
+out of: 3258448520 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  20712887
+moves generated: 136577518
+ratio: 0.151657
+making move: c1 to b2
+Opponent's Last Move: 'Nd6'  on turn: 34
+Time Remaining: 8.09878e+011 ns
+fen: "r1b1k2r/1p1n4/p1pnpqpb/P2p1p1p/1P1P3P/R1P1PQPN/1BN2PB1/4K2R w Kkq - 2 18"
+zobirst hash: 641c8c7d6d646da6
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n . . . .
+ 6 p . p n p q p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 R . P . P Q P N
+ 2 . B N . . P B .
+ 1 . . . . K . . R
+im running with transposition
+took:   7156608200 ns
+out of: 3239513819 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  32815775
+moves generated: 209900641
+ratio: 0.15634
+making move: a3 to b3
+Opponent's Last Move: 'Nf7'  on turn: 36
+Time Remaining: 8.02588e+011 ns
+fen: "r1b1k2r/1p1n1n2/p1p1pqpb/P2p1p1p/1P1P3P/1RP1PQPN/1BN2PB1/4K2R w Kkq - 4 19"
+zobirst hash: e08f17f9c711c372
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n . n . .
+ 6 p . p . p q p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 . R P . P Q P N
+ 2 . B N . . P B .
+ 1 . . . . K . . R
+im running with transposition
+took:   2655504600 ns
+out of: 3210352901 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  12089859
+moves generated: 79082694
+ratio: 0.152876
+making move: f3 to e2
+Opponent's Last Move: 'Nd6'  on turn: 38
+Time Remaining: 7.998e+011 ns
+fen: "r1b1k2r/1p1n4/p1pnpqpb/P2p1p1p/1P1P3P/1RP1P1PN/1BN1QPB1/4K2R w Kkq - 6 20"
+zobirst hash: b0ee3e5bebf25cd1
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n . . . .
+ 6 p . p n p q p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 . R P . P . P N
+ 2 . B N . Q P B .
+ 1 . . . . K . . R
+im running with transposition
+took:   4595773100 ns
+out of: 3199199895 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  20621669
+moves generated: 139391962
+ratio: 0.14794
+making move: g2 to f3
+Opponent's Last Move: 'Qf8'  on turn: 40
+Time Remaining: 7.95081e+011 ns
+fen: "r1b1kq1r/1p1n4/p1pnp1pb/P2p1p1p/1P1P3P/1RP1PBPN/1BN1QP2/4K2R w Kkq - 8 21"
+zobirst hash: c1adeb277bfe3b92
+   a b c d e f g h
+ 8 r . b . k q . r
+ 7 . p . n . . . .
+ 6 p . p n p . p b
+ 5 P . . p . p . p
+ 4 . P . P . . . P
+ 3 . R P . P B P N
+ 2 . B N . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   2279686200 ns
+out of: 3180324386 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11005256
+moves generated: 77821677
+ratio: 0.141416
+making move: h3 to f4
+Opponent's Last Move: 'Bxf4'  on turn: 42
+Time Remaining: 7.92667e+011 ns
+fen: "r1b1kq1r/1p1n4/p1pnp1p1/P2p1p1p/1P1P1b1P/1RP1PBP1/1BN1QP2/4K2R w Kkq - 0 22"
+zobirst hash: 43528fb75660d2c
+   a b c d e f g h
+ 8 r . b . k q . r
+ 7 . p . n . . . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . b . P
+ 3 . R P . P B P .
+ 2 . B N . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   557407000 ns
+out of: 3170667683 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  2576528
+moves generated: 21295411
+ratio: 0.12099
+making move: e3 to f4
+Opponent's Last Move: 'Qe7'  on turn: 44
+Time Remaining: 7.91982e+011 ns
+fen: "r1b1k2r/1p1nq3/p1pnp1p1/P2p1p1p/1P1P1P1P/1RP2BP1/1BN1QP2/4K2R w Kkq - 1 23"
+zobirst hash: 71c6c072f02bbfb5
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q . . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . R P . . B P .
+ 2 . B N . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   1915885400 ns
+out of: 3167928668 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  9315951
+moves generated: 65012684
+ratio: 0.143294
+making move: c2 to a3
+Opponent's Last Move: 'Rh6'  on turn: 46
+Time Remaining: 7.89935e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/1P1P1P1P/NRP2BP1/1B2QP2/4K2R w Kq - 3 24"
+zobirst hash: d61efa3d9fd1a116
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 N R P . . B P .
+ 2 . B . . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   3517505600 ns
+out of: 3159739368 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  15693238
+moves generated: 104658091
+ratio: 0.149948
+making move: a3 to c2
+Opponent's Last Move: 'Qf7'  on turn: 48
+Time Remaining: 7.8629e+011 ns
+fen: "r1b1k3/1p1n1q2/p1pnp1pr/P2p1p1p/1P1P1P1P/1RP2BP1/1BN1QP2/4K2R w Kq - 5 25"
+zobirst hash: f7a1787cd3f5632c
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . q . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . R P . . B P .
+ 2 . B N . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   2619387300 ns
+out of: 3145161875 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  11761201
+moves generated: 82521665
+ratio: 0.142523
+making move: b2 to a1
+Opponent's Last Move: 'Qe7'  on turn: 50
+Time Remaining: 7.83542e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/1P1P1P1P/1RP2BP1/2N1QP2/B3K2R w Kq - 7 26"
+zobirst hash: da31a7f32528b39d
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . R P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1315935800 ns
+out of: 3134167703 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5872547
+moves generated: 42059314
+ratio: 0.139625
+making move: b3 to a3
+Opponent's Last Move: 'Nb5'  on turn: 52
+Time Remaining: 7.8208e+011 ns
+fen: "r1b1k3/1p1nq3/p1p1p1pr/Pn1p1p1p/1P1P1P1P/R1P2BP1/2N1QP2/B3K2R w Kq - 9 27"
+zobirst hash: c33f4385b5907b12
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p . p . p r
+ 5 P n . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   771059500 ns
+out of: 3128318108 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  3697917
+moves generated: 23484975
+ratio: 0.157459
+making move: a3 to a4
+Opponent's Last Move: 'Nd6'  on turn: 54
+Time Remaining: 7.81162e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/RP1P1P1P/2P2BP1/2N1QP2/B3K2R w Kq - 11 28"
+zobirst hash: 5bc48fc2029c8ccc
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1025741600 ns
+out of: 3124648837 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4768686
+moves generated: 33317931
+ratio: 0.143127
+making move: a4 to a2
+Opponent's Last Move: 'Rh7'  on turn: 56
+Time Remaining: 7.80005e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 13 29"
+zobirst hash: ed0c922d63ab8985
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   3320377200 ns
+out of: 3120020557 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  15499950
+moves generated: 101755442
+ratio: 0.152326
+making move: a2 to a4
+Opponent's Last Move: 'Nf8'  on turn: 58
+Time Remaining: 7.76557e+011 ns
+fen: "r1b1kn2/1p2q2r/p1pnp1p1/P2p1p1p/RP1P1P1P/2P2BP1/2N1QP2/B3K2R w Kq - 15 30"
+zobirst hash: c36a63848d42384
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1319451700 ns
+out of: 3106229658 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5961471
+moves generated: 41338886
+ratio: 0.14421
+making move: a4 to a3
+Opponent's Last Move: 'Qd8'  on turn: 60
+Time Remaining: 7.75113e+011 ns
+fen: "r1bqkn2/1p5r/p1pnp1p1/P2p1p1p/1P1P1P1P/R1P2BP1/2N1QP2/B3K2R w Kq - 17 31"
+zobirst hash: 163c31e4e5d40bfe
+   a b c d e f g h
+ 8 r . b q k n . .
+ 7 . p . . . . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   3266483900 ns
+out of: 3100452465 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  15268293
+moves generated: 101744578
+ratio: 0.150065
+making move: a3 to a4
+Opponent's Last Move: 'Qf6'  on turn: 62
+Time Remaining: 7.717e+011 ns
+fen: "r1b1kn2/1p5r/p1pnpqp1/P2p1p1p/RP1P1P1P/2P2BP1/2N1QP2/B3K2R w Kq - 19 32"
+zobirst hash: 90f1e48fec01ce03
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   760550800 ns
+out of: 3086798136 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  3661193
+moves generated: 21547413
+ratio: 0.169913
+making move: e2 to e5
+Opponent's Last Move: 'Qd8'  on turn: 64
+Time Remaining: 7.70805e+011 ns
+fen: "r1bqkn2/1p5r/p1pnp1p1/P2pQp1p/RP1P1P1P/2P2BP1/2N2P2/B3K2R w Kq - 21 33"
+zobirst hash: 6205df91a411f62e
+   a b c d e f g h
+ 8 r . b q k n . .
+ 7 . p . . . . . r
+ 6 p . p n p . p .
+ 5 P . . p Q p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   801570200 ns
+out of: 3083220685 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3480643
+moves generated: 28107198
+ratio: 0.123835
+making move: a4 to a2
+Opponent's Last Move: 'Qe7'  on turn: 66
+Time Remaining: 7.69879e+011 ns
+fen: "r1b1kn2/1p2q2r/p1pnp1p1/P2pQp1p/1P1P1P1P/2P2BP1/R1N2P2/B3K2R w Kq - 23 34"
+zobirst hash: 501e149232d415e8
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . q . . r
+ 6 p . p n p . p .
+ 5 P . . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   550892600 ns
+out of: 3079514754 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  2324586
+moves generated: 19600781
+ratio: 0.118597
+making move: e5 to e3
+Opponent's Last Move: 'Qf6'  on turn: 68
+Time Remaining: 7.69186e+011 ns
+fen: "r1b1kn2/1p5r/p1pnpqp1/P2p1p1p/1P1P1P1P/2P1QBP1/R1N2P2/B3K2R w Kq - 25 35"
+zobirst hash: 7ff2266956ce6217
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1036749200 ns
+out of: 3076743256 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5206243
+moves generated: 28013004
+ratio: 0.185851
+making move: e3 to d3
+Opponent's Last Move: 'Rh8'  on turn: 70
+Time Remaining: 7.67998e+011 ns
+fen: "r1b1kn1r/1p6/p1pnpqp1/P2p1p1p/1P1P1P1P/2PQ1BP1/R1N2P2/B3K2R w Kq - 27 36"
+zobirst hash: 42d9f101f7557f62
+   a b c d e f g h
+ 8 r . b . k n . r
+ 7 . p . . . . . .
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1398996300 ns
+out of: 3071990559 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6710565
+moves generated: 40407376
+ratio: 0.166073
+making move: d3 to e2
+Opponent's Last Move: 'Rh7'  on turn: 72
+Time Remaining: 7.66471e+011 ns
+fen: "r1b1kn2/1p5r/p1pnpqp1/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 29 37"
+zobirst hash: c1c3d65614df06a6
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1113793400 ns
+out of: 3065884289 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5410070
+moves generated: 31966642
+ratio: 0.169241
+making move: a2 to a4
+Opponent's Last Move: 'Qd8'  on turn: 74
+Time Remaining: 7.65228e+011 ns
+fen: "r1bqkn2/1p5r/p1pnp1p1/P2p1p1p/RP1P1P1P/2P2BP1/2N1QP2/B3K2R w Kq - 31 38"
+zobirst hash: 6f1f5fe226cf08e7
+   a b c d e f g h
+ 8 r . b q k n . .
+ 7 . p . . . . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   888632200 ns
+out of: 3060911577 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4006703
+moves generated: 27953868
+ratio: 0.143333
+making move: a4 to a2
+Opponent's Last Move: 'Qe7'  on turn: 76
+Time Remaining: 7.6422e+011 ns
+fen: "r1b1kn2/1p2q2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 33 39"
+zobirst hash: 5d0494e1b00aeb21
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   542886700 ns
+out of: 3056881438 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  2452611
+moves generated: 19012840
+ratio: 0.128998
+making move: e2 to d3
+Opponent's Last Move: 'Qf6'  on turn: 78
+Time Remaining: 7.63403e+011 ns
+fen: "r1b1kn2/1p5r/p1pnpqp1/P2p1p1p/1P1P1P1P/2PQ1BP1/R1N2P2/B3K2R w Kq - 35 40"
+zobirst hash: f7a2f5b8f5d9cc55
+   a b c d e f g h
+ 8 r . b . k n . .
+ 7 . p . . . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1011719900 ns
+out of: 3053610230 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  4959323
+moves generated: 28989898
+ratio: 0.171071
+making move: d3 to e2
+Opponent's Last Move: 'Nd7'  on turn: 80
+Time Remaining: 7.62266e+011 ns
+fen: "r1b1k3/1p1n3r/p1pnpqp1/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 37 41"
+zobirst hash: 71cbd09ac77e6402
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1660182800 ns
+out of: 3049062099 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  8046308
+moves generated: 50152040
+ratio: 0.160438
+making move: c2 to e3
+Opponent's Last Move: 'Qe7'  on turn: 82
+Time Remaining: 7.6048e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P1NBP1/R3QP2/B3K2R w Kq - 39 42"
+zobirst hash: 348df1431e419a6
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   4171505500 ns
+out of: 3041919895 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  19033843
+moves generated: 134597928
+ratio: 0.141413
+making move: a2 to a4
+Opponent's Last Move: 'Rh6'  on turn: 84
+Time Remaining: 7.56183e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/RP1P1P1P/2P1NBP1/4QP2/B3K2R w Kq - 41 43"
+zobirst hash: b580c2fb50d31cef
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . N B P .
+ 2 . . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   2361266000 ns
+out of: 3024732349 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  10531618
+moves generated: 76153462
+ratio: 0.138295
+making move: a4 to a2
+Opponent's Last Move: 'Rh8'  on turn: 86
+Time Remaining: 7.53689e+011 ns
+fen: "r1b1k2r/1p1nq3/p1pnp1p1/P2p1p1p/1P1P1P1P/2P1NBP1/R3QP2/B3K2R w Kq - 43 44"
+zobirst hash: b633dbad3368aa91
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q . . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   3870331800 ns
+out of: 3014756284 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  17989200
+moves generated: 129310921
+ratio: 0.139116
+making move: e2 to d1
+Opponent's Last Move: 'Rh7'  on turn: 88
+Time Remaining: 7.49691e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P1NBP1/R4P2/B2QK2R w Kq - 45 45"
+zobirst hash: 6d98769cd087c72b
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . . P . .
+ 1 B . . Q K . . R
+im running with transposition
+took:   1765785500 ns
+out of: 2998762466 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8199954
+moves generated: 62010539
+ratio: 0.132235
+making move: d1 to e2
+Opponent's Last Move: 'Rh6'  on turn: 90
+Time Remaining: 7.47801e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/1P1P1P1P/2P1NBP1/R3QP2/B3K2R w Kq - 47 46"
+zobirst hash: e4b2f022a80dd44a
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1855842400 ns
+out of: 2991202309 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8591666
+moves generated: 61065152
+ratio: 0.140697
+making move: e2 to d1
+Opponent's Last Move: 'Rh8'  on turn: 92
+Time Remaining: 7.45822e+011 ns
+fen: "r1b1k2r/1p1nq3/p1pnp1p1/P2p1p1p/1P1P1P1P/2P1NBP1/R4P2/B2QK2R w Kq - 49 47"
+zobirst hash: d8e37225d20b741c
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q . . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . . P . .
+ 1 B . . Q K . . R
+im running with transposition
+took:   2531314600 ns
+out of: 2983286197 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  12129209
+moves generated: 83419016
+ratio: 0.145401
+making move: d1 to e2
+Opponent's Last Move: 'Nf7'  on turn: 94
+Time Remaining: 7.43166e+011 ns
+fen: "r1b1k2r/1p1nqn2/p1p1p1p1/P2p1p1p/1P1P1P1P/2P1NBP1/R3QP2/B3K2R w Kq - 51 48"
+zobirst hash: ca76061e7db2380d
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q n . .
+ 6 p . p . p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . N B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   4395827100 ns
+out of: 2972665974 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  20752284
+moves generated: 143706009
+ratio: 0.144408
+making move: e3 to c2
+Opponent's Last Move: 'Rh7'  on turn: 96
+Time Remaining: 7.38639e+011 ns
+fen: "r1b1k3/1p1nqn1r/p1p1p1p1/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 53 49"
+zobirst hash: 91494f9e2d711b19
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q n . r
+ 6 p . p . p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1083771200 ns
+out of: 2954555758 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  4722019
+moves generated: 34790994
+ratio: 0.135725
+making move: f3 to g2
+Opponent's Last Move: 'Nd6'  on turn: 98
+Time Remaining: 7.37421e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P3P1/R1N1QPB1/B3K2R w Kq - 55 50"
+zobirst hash: 2e8c004e9cc4b214
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . . P .
+ 2 R . N . Q P B .
+ 1 B . . . K . . R
+im running with transposition
+took:   1172383000 ns
+out of: 2949682961 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5947160
+moves generated: 38711945
+ratio: 0.153626
+making move: a2 to a3
+Opponent's Last Move: 'Qf6'  on turn: 100
+Time Remaining: 7.3612e+011 ns
+fen: "r1b1k3/1p1n3r/p1pnpqp1/P2p1p1p/1P1P1P1P/R1P3P1/2N1QPB1/B3K2R w Kq - 57 51"
+zobirst hash: 9a5a1e2603d4942f
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . . P .
+ 2 . . N . Q P B .
+ 1 B . . . K . . R
+im running with transposition
+took:   1160814800 ns
+out of: 2944481586 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5798260
+moves generated: 36962933
+ratio: 0.156867
+making move: a3 to a4
+Opponent's Last Move: 'Rf7'  on turn: 102
+Time Remaining: 7.34799e+011 ns
+fen: "r1b1k3/1p1n1r2/p1pnpqp1/P2p1p1p/RP1P1P1P/2P3P1/2N1QPB1/B3K2R w Kq - 59 52"
+zobirst hash: c77346a082b4b03c
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . r . .
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . . P .
+ 2 . . N . Q P B .
+ 1 B . . . K . . R
+im running with transposition
+took:   1600715300 ns
+out of: 2939194633 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7938255
+moves generated: 52717529
+ratio: 0.150581
+making move: a4 to a3
+Opponent's Last Move: 'Qe7'  on turn: 104
+Time Remaining: 7.33069e+011 ns
+fen: "r1b1k3/1p1nqr2/p1pnp1p1/P2p1p1p/1P1P1P1P/R1P3P1/2N1QPB1/B3K2R w Kq - 61 53"
+zobirst hash: 22976a11e57a5ea2
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q r . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . . P .
+ 2 . . N . Q P B .
+ 1 B . . . K . . R
+im running with transposition
+took:   1046746100 ns
+out of: 2932274341 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5075108
+moves generated: 37504741
+ratio: 0.135319
+making move: g2 to f3
+Opponent's Last Move: 'Rh7'  on turn: 106
+Time Remaining: 7.3188e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/R1P2BP1/2N1QP2/B3K2R w Kq - 63 54"
+zobirst hash: c51dcef2586e4239
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1229887800 ns
+out of: 2927518797 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  6334066
+moves generated: 36564335
+ratio: 0.173231
+making move: a3 to a2
+Opponent's Last Move: 'Rh6'  on turn: 108
+Time Remaining: 7.30511e+011 ns
+fen: "r1b1k3/1p1nq3/p1pnp1pr/P2p1p1p/1P1P1P1P/2P2BP1/R1N1QP2/B3K2R w Kq - 65 55"
+zobirst hash: af6bd1bfa424469
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . .
+ 6 p . p n p . p r
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   892636100 ns
+out of: 2922043194 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4335216
+moves generated: 30376945
+ratio: 0.142714
+making move: a2 to a4
+Opponent's Last Move: 'Rh7'  on turn: 110
+Time Remaining: 7.29487e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/RP1P1P1P/2P2BP1/2N1QP2/B3K2R w Kq - 67 56"
+zobirst hash: bc3ea0f49b754120
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 R P . P . P . P
+ 3 . . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   273194800 ns
+out of: 2917948517 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  1259159
+moves generated: 10347990
+ratio: 0.121682
+making move: a4 to a3
+Opponent's Last Move: 'Qf6'  on turn: 112
+Time Remaining: 7.29093e+011 ns
+fen: "r1b1k3/1p1n3r/p1pnpqp1/P2p1p1p/1P1P1P1P/R1P2BP1/2N1QP2/B3K2R w Kq - 69 57"
+zobirst hash: 59da8c45fcbbafbe
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . . . r
+ 6 p . p n p q p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . . N . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   734534500 ns
+out of: 2916371626 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  3705570
+moves generated: 21664726
+ratio: 0.171042
+making move: e2 to d3
+Opponent's Last Move: 'Qg7'  on turn: 114
+Time Remaining: 7.28235e+011 ns
+fen: "r1b1k3/1p1n2qr/p1pnp1p1/P2p1p1p/1P1P1P1P/R1PQ1BP1/2N2P2/B3K2R w Kq - 71 58"
+zobirst hash: 1e1b92c1552259e0
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . . q r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 R . P Q . B P .
+ 2 . . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1386999300 ns
+out of: 2912940097 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  6146713
+moves generated: 40725039
+ratio: 0.150932
+making move: a3 to a2
+Opponent's Last Move: 'Qf7'  on turn: 116
+Time Remaining: 7.26723e+011 ns
+fen: "r1b1k3/1p1n1q1r/p1pnp1p1/P2p1p1p/1P1P1P1P/2PQ1BP1/R1N2P2/B3K2R w Kq - 73 59"
+zobirst hash: aaf5417be73a1294
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . q . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1187845600 ns
+out of: 2906892782 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5600574
+moves generated: 41659920
+ratio: 0.134436
+making move: d3 to e3
+Opponent's Last Move: 'Qe7'  on turn: 118
+Time Remaining: 7.25404e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/2P1QBP1/R1N2P2/B3K2R w Kq - 75 60"
+zobirst hash: 533d621221baed34
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . N . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1456047100 ns
+out of: 2901617590 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  7541791
+moves generated: 44065692
+ratio: 0.171149
+making move: c2 to a3
+Opponent's Last Move: 'Rf7'  on turn: 120
+Time Remaining: 7.23822e+011 ns
+fen: "r1b1k3/1p1nqr2/p1pnp1p1/P2p1p1p/1P1P1P1P/N1P1QBP1/R4P2/B3K2R w Kq - 77 61"
+zobirst hash: 2710266b4a7259e6
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q r . .
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1242884800 ns
+out of: 2895286603 ns
+went to depth: 8
+minimax result: 20
+nodes explored:  5994188
+moves generated: 42872780
+ratio: 0.139813
+making move: e3 to e2
+Opponent's Last Move: 'Rh7'  on turn: 122
+Time Remaining: 7.22448e+011 ns
+fen: "r1b1k3/1p1nq2r/p1pnp1p1/P2p1p1p/1P1P1P1P/N1P2BP1/R3QP2/B3K2R w Kq - 79 62"
+zobirst hash: bd2be0d44a181a5d
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p n p . p .
+ 5 P . . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . . B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   991717700 ns
+out of: 2889790584 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  4693381
+moves generated: 33557857
+ratio: 0.139859
+making move: a2 to c2
+Opponent's Last Move: 'Nb5'  on turn: 124
+Time Remaining: 7.21304e+011 ns
+fen: "r1b1k3/1p1nq2r/p1p1p1p1/Pn1p1p1p/1P1P1P1P/N1P2BP1/2R1QP2/B3K2R w Kq - 81 63"
+zobirst hash: 54245d1e7135351
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 p . p . p . p .
+ 5 P n . p . p . p
+ 4 . P . P . P . P
+ 3 N . P . . B P .
+ 2 . . R . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   350249500 ns
+out of: 2885215189 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  1586660
+moves generated: 12595815
+ratio: 0.125967
+making move: a3 to b5
+Opponent's Last Move: 'axb5'  on turn: 126
+Time Remaining: 7.20818e+011 ns
+fen: "r1b1k3/1p1nq2r/2p1p1p1/Pp1p1p1p/1P1P1P1P/2P2BP1/2R1QP2/B3K2R w Kq - 0 64"
+zobirst hash: dc1c02c850718b02
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . . R . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   808574900 ns
+out of: 2883270728 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3886890
+moves generated: 28335364
+ratio: 0.137175
+making move: e2 to e3
+Opponent's Last Move: 'Qd6'  on turn: 128
+Time Remaining: 7.19875e+011 ns
+fen: "r1b1k3/1p1n3r/2pqp1p1/Pp1p1p1p/1P1P1P1P/2P1QBP1/2R2P2/B3K2R w Kq - 2 65"
+zobirst hash: 4cbe4617db454dc6
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n . . . r
+ 6 . . p q p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 . . R . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1569117700 ns
+out of: 2879500428 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  7947268
+moves generated: 51372743
+ratio: 0.154698
+making move: e3 to d2
+Opponent's Last Move: 'Qe7'  on turn: 130
+Time Remaining: 7.1817e+011 ns
+fen: "r1b1k3/1p1nq2r/2p1p1p1/Pp1p1p1p/1P1P1P1P/2P2BP1/2RQ1P2/B3K2R w Kq - 4 66"
+zobirst hash: 6202c265df8c0f26
+   a b c d e f g h
+ 8 r . b . k . . .
+ 7 . p . n q . . r
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . . R Q . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   937667200 ns
+out of: 2872678750 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  4932296
+moves generated: 28728820
+ratio: 0.171685
+making move: c2 to a2
+Opponent's Last Move: 'Rh8'  on turn: 132
+Time Remaining: 7.17083e+011 ns
+fen: "r1b1k2r/1p1nq3/2p1p1p1/Pp1p1p1p/1P1P1P1P/2P2BP1/R2Q1P2/B3K2R w Kq - 6 67"
+zobirst hash: 8ec8c198041c01da
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q . . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . Q . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1514078000 ns
+out of: 2868333178 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  7727003
+moves generated: 49541150
+ratio: 0.155971
+making move: d2 to e2
+Opponent's Last Move: 'Qd6'  on turn: 134
+Time Remaining: 7.15441e+011 ns
+fen: "r1b1k2r/1p1n4/2pqp1p1/Pp1p1p1p/1P1P1P1P/2P2BP1/R3QP2/B3K2R w Kq - 8 68"
+zobirst hash: 1e45b5d542c4278b
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n . . . .
+ 6 . . p q p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   783557600 ns
+out of: 2861763789 ns
+went to depth: 8
+minimax result: 17
+nodes explored:  3763698
+moves generated: 29784219
+ratio: 0.126366
+making move: e2 to d2
+Opponent's Last Move: 'Qf8'  on turn: 136
+Time Remaining: 7.14527e+011 ns
+fen: "r1b1kq1r/1p1n4/2p1p1p1/Pp1p1p1p/1P1P1P1P/2P2BP1/R2Q1P2/B3K2R w Kq - 10 69"
+zobirst hash: a0ccc430cfaab08f
+   a b c d e f g h
+ 8 r . b . k q . r
+ 7 . p . n . . . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . Q . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   530378500 ns
+out of: 2858108539 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2660972
+moves generated: 17703233
+ratio: 0.15031
+making move: d2 to e3
+Opponent's Last Move: 'Qe7'  on turn: 138
+Time Remaining: 7.13871e+011 ns
+fen: "r1b1k2r/1p1nq3/2p1p1p1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 12 70"
+zobirst hash: 8ee7f10ac9f0e14f
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . n q . . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   540384600 ns
+out of: 2855484177 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2579640
+moves generated: 19182834
+ratio: 0.134476
+making move: a2 to e2
+Opponent's Last Move: 'Nf6'  on turn: 140
+Time Remaining: 7.13207e+011 ns
+fen: "r1b1k2r/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/4RP2/B3K2R w Kq - 14 71"
+zobirst hash: b2ebc26049bcbd1c
+   a b c d e f g h
+ 8 r . b . k . . r
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 . . . . R P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   735523200 ns
+out of: 2852828695 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  3466756
+moves generated: 26862568
+ratio: 0.129055
+making move: e3 to e5
+Opponent's Last Move: 'Rg8'  on turn: 142
+Time Remaining: 7.12337e+011 ns
+fen: "r1b1k1r1/1p2q3/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/4RP2/B3K2R w Kq - 16 72"
+zobirst hash: 72ba4026fd1518e
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . . . . R P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   827588500 ns
+out of: 2849346522 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3781409
+moves generated: 31230178
+ratio: 0.121082
+making move: e2 to a2
+Opponent's Last Move: 'Qd8'  on turn: 144
+Time Remaining: 7.11366e+011 ns
+fen: "r1bqk1r1/1p6/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 18 73"
+zobirst hash: 599f4bbe836daa42
+   a b c d e f g h
+ 8 r . b q k . r .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1282913000 ns
+out of: 2845465068 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  5413959
+moves generated: 41484316
+ratio: 0.130506
+making move: e5 to e3
+Opponent's Last Move: 'Qe7'  on turn: 146
+Time Remaining: 7.09951e+011 ns
+fen: "r1b1k1r1/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 20 74"
+zobirst hash: 899dc2282db91b59
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   457324800 ns
+out of: 2839802937 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2204994
+moves generated: 17708534
+ratio: 0.124516
+making move: e3 to e2
+Opponent's Last Move: 'Qf8'  on turn: 148
+Time Remaining: 7.09368e+011 ns
+fen: "r1b1kqr1/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/R3QP2/B3K2R w Kq - 22 75"
+zobirst hash: 19a837bfa41ecebd
+   a b c d e f g h
+ 8 r . b . k q r .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1006729200 ns
+out of: 2837471769 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  4698518
+moves generated: 35075516
+ratio: 0.133954
+making move: e2 to e5
+Opponent's Last Move: 'Qe7'  on turn: 150
+Time Remaining: 7.08237e+011 ns
+fen: "r1b1k1r1/1p2q3/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 24 76"
+zobirst hash: 3ab6b264ed768121
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   252180100 ns
+out of: 2832949336 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  1037021
+moves generated: 9869461
+ratio: 0.105074
+making move: e5 to e3
+Opponent's Last Move: 'Qf8'  on turn: 152
+Time Remaining: 7.07848e+011 ns
+fen: "r1b1kqr1/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 26 77"
+zobirst hash: a799c780e60faa0c
+   a b c d e f g h
+ 8 r . b . k q r .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   470334700 ns
+out of: 2831390092 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  1904397
+moves generated: 13382269
+ratio: 0.142307
+making move: e3 to d3
+Opponent's Last Move: 'Qg7'  on turn: 154
+Time Remaining: 7.07253e+011 ns
+fen: "r1b1k1r1/1p4q1/2p1pnp1/Pp1p1p1p/1P1P1P1P/2PQ1BP1/R4P2/B3K2R w Kq - 28 78"
+zobirst hash: ecaa6e2462e46431
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . q .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1050748700 ns
+out of: 2829010712 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  4625110
+moves generated: 35526730
+ratio: 0.130187
+making move: d3 to e2
+Opponent's Last Move: 'Qh7'  on turn: 156
+Time Remaining: 7.06048e+011 ns
+fen: "r1b1k1r1/1p5q/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/R3QP2/B3K2R w Kq - 30 79"
+zobirst hash: b3d23c0e3bf7b200
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . . q
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   936667800 ns
+out of: 2824191709 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3576985
+moves generated: 25312394
+ratio: 0.141314
+making move: e2 to e5
+Opponent's Last Move: 'Qg7'  on turn: 158
+Time Remaining: 7.04983e+011 ns
+fen: "r1b1k1r1/1p4q1/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 32 80"
+zobirst hash: d7d1cdb9013c500b
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . q .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   803562600 ns
+out of: 2819931007 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3815416
+moves generated: 25566589
+ratio: 0.149234
+making move: e5 to e3
+Opponent's Last Move: 'Qh7'  on turn: 160
+Time Remaining: 7.0402e+011 ns
+fen: "r1b1k1r1/1p5q/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 34 81"
+zobirst hash: de3cc3179e6d6b1
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . . q
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   697496500 ns
+out of: 2816080989 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3321905
+moves generated: 18999305
+ratio: 0.174844
+making move: e3 to d3
+Opponent's Last Move: 'Qf7'  on turn: 162
+Time Remaining: 7.03183e+011 ns
+fen: "r1b1k1r1/1p3q2/2p1pnp1/Pp1p1p1p/1P1P1P1P/2PQ1BP1/R4P2/B3K2R w Kq - 36 82"
+zobirst hash: 7055e141eb39e4f9
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . q . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   532379000 ns
+out of: 2812732918 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2335873
+moves generated: 18471097
+ratio: 0.126461
+making move: d3 to e2
+Opponent's Last Move: 'Qg7'  on turn: 164
+Time Remaining: 7.02518e+011 ns
+fen: "r1b1k1r1/1p4q1/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/R3QP2/B3K2R w Kq - 38 83"
+zobirst hash: dacb4dca83e2aec2
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . q .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . Q P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   475349600 ns
+out of: 2810073297 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2307066
+moves generated: 14849464
+ratio: 0.155364
+making move: e2 to d3
+Opponent's Last Move: 'Qf8'  on turn: 166
+Time Remaining: 7.01904e+011 ns
+fen: "r1b1kqr1/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2PQ1BP1/R4P2/B3K2R w Kq - 40 84"
+zobirst hash: 2fc914514518044e
+   a b c d e f g h
+ 8 r . b . k q r .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   408291600 ns
+out of: 2807614554 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  1923480
+moves generated: 15180519
+ratio: 0.126707
+making move: d3 to e3
+Opponent's Last Move: 'Qg7'  on turn: 168
+Time Remaining: 7.0136e+011 ns
+fen: "r1b1k1r1/1p4q1/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 42 85"
+zobirst hash: 64fabdf5c1f3ca73
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . . q .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   426315400 ns
+out of: 2805441590 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2143794
+moves generated: 12441819
+ratio: 0.172306
+making move: e3 to e5
+Opponent's Last Move: 'Qf7'  on turn: 170
+Time Remaining: 7.00807e+011 ns
+fen: "r1b1k1r1/1p3q2/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 44 86"
+zobirst hash: 4b2e42dc88e1d0c3
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . . . q . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   759540700 ns
+out of: 2803229824 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3091245
+moves generated: 22024353
+ratio: 0.140356
+making move: e5 to e3
+Opponent's Last Move: 'Qd7'  on turn: 172
+Time Remaining: 6.99907e+011 ns
+fen: "r1b1k1r1/1p1q4/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 46 87"
+zobirst hash: ff1588e1523607c
+   a b c d e f g h
+ 8 r . b . k . r .
+ 7 . p . q . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   418310000 ns
+out of: 2799629047 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2017332
+moves generated: 13834726
+ratio: 0.145817
+making move: e3 to e5
+Opponent's Last Move: 'Rf8'  on turn: 174
+Time Remaining: 6.99341e+011 ns
+fen: "r1b1kr2/1p1q4/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 48 88"
+zobirst hash: ae2297c5bee46396
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . q . . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   1652176100 ns
+out of: 2797362012 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  5098843
+moves generated: 39482173
+ratio: 0.129143
+making move: e5 to e3
+Opponent's Last Move: 'Qd8'  on turn: 176
+Time Remaining: 6.97553e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/R4P2/B3K2R w Kq - 50 89"
+zobirst hash: f84c84f528aaa9a8
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   542385100 ns
+out of: 2790211889 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2330872
+moves generated: 18591504
+ratio: 0.125373
+making move: e3 to e5
+Opponent's Last Move: 'Qe7'  on turn: 178
+Time Remaining: 6.96863e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/R4P2/B3K2R w Kq - 52 90"
+zobirst hash: 284e0d63867e18b3
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R . . . . P . .
+ 1 B . . . K . . R
+im running with transposition
+took:   654466600 ns
+out of: 2787451016 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  1834858
+moves generated: 15904886
+ratio: 0.115364
+making move: a1 to b2
+Opponent's Last Move: 'Qd8'  on turn: 180
+Time Remaining: 6.96076e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/RB3P2/4K2R w Kq - 54 91"
+zobirst hash: 176fdb8e7b2fb283
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R B . . . P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   758540300 ns
+out of: 2784304213 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3264552
+moves generated: 25944039
+ratio: 0.125831
+making move: e5 to e2
+Opponent's Last Move: 'Qe7'  on turn: 182
+Time Remaining: 6.95182e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/RB2QP2/4K2R w Kq - 56 92"
+zobirst hash: 795ca22797ea6729
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 R B . . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   568405900 ns
+out of: 2780726765 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  2619498
+moves generated: 21160255
+ratio: 0.123793
+making move: a2 to a1
+Opponent's Last Move: 'Qd8'  on turn: 184
+Time Remaining: 6.94486e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/1B2QP2/R3K2R w Kq - 58 93"
+zobirst hash: f43b290f5193c9a1
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1979410000 ns
+out of: 2777944635 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  9343007
+moves generated: 66919640
+ratio: 0.139615
+making move: e2 to d3
+Opponent's Last Move: 'Qe7'  on turn: 186
+Time Remaining: 6.92375e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/2PQ1BP1/1B3P2/R3K2R w Kq - 60 94"
+zobirst hash: a173f33bde8e2831
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P Q . B P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1265901000 ns
+out of: 2769500428 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  4904492
+moves generated: 36786223
+ratio: 0.133324
+making move: d3 to e3
+Opponent's Last Move: 'Qd8'  on turn: 188
+Time Remaining: 6.90893e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P1QBP1/1B3P2/R3K2R w Kq - 62 95"
+zobirst hash: 4a0ad9301382ad10
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . Q B P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   425303700 ns
+out of: 2763572689 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  1725442
+moves generated: 13490420
+ratio: 0.127901
+making move: e3 to e2
+Opponent's Last Move: 'Qe7'  on turn: 190
+Time Remaining: 6.90316e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/2P2BP1/1B2QP2/R3K2R w Kq - 64 96"
+zobirst hash: 9712d0d53f88e2c2
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   698496800 ns
+out of: 2761264063 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  3201935
+moves generated: 22496010
+ratio: 0.142333
+making move: a1 to a3
+Opponent's Last Move: 'Qd8'  on turn: 192
+Time Remaining: 6.8949e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/R1P2BP1/1B2QP2/4K2R w Kq - 66 97"
+zobirst hash: 32640722c23487f6
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . B . . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   560398900 ns
+out of: 2757958008 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2159112
+moves generated: 17281322
+ratio: 0.124939
+making move: e2 to d3
+Opponent's Last Move: 'Qe7'  on turn: 194
+Time Remaining: 6.88791e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1p1p1p/1P1P1P1P/R1PQ1BP1/1B3P2/4K2R w Kq - 68 98"
+zobirst hash: 672cdd164d296666
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 R . P Q . B P .
+ 2 . B . . . P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   670477600 ns
+out of: 2755163997 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2753054
+moves generated: 21677542
+ratio: 0.127
+making move: d3 to e3
+Opponent's Last Move: 'Qd8'  on turn: 196
+Time Remaining: 6.87995e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1p1p1p/1P1P1P1P/R1P1QBP1/1B3P2/4K2R w Kq - 70 99"
+zobirst hash: 8c55f71d8025e347
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 R . P . Q B P .
+ 2 . B . . . P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   178127900 ns
+out of: 2751978445 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  815256
+moves generated: 6835735
+ratio: 0.119264
+making move: e3 to e5
+Opponent's Last Move: 'Qe7'  on turn: 198
+Time Remaining: 6.87681e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1pQp1p/1P1P1P1P/R1P2BP1/1B3P2/4K2R w Kq - 72 100"
+zobirst hash: 5c577e8b2ef1525c
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 R . P . . B P .
+ 2 . B . . . P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   1472060300 ns
+out of: 2750725837 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  6231924
+moves generated: 44300608
+ratio: 0.140674
+making move: a3 to a1
+Opponent's Last Move: 'Qd8'  on turn: 200
+Time Remaining: 6.86089e+011 ns
+fen: "r1bqkr2/1p6/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P2BP1/1B3P2/R3K2R w Kq - 74 101"
+zobirst hash: f921a97cd34d3768
+   a b c d e f g h
+ 8 r . b q k r . .
+ 7 . p . . . . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . B P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   624443700 ns
+out of: 2744356322 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2819348
+moves generated: 23530847
+ratio: 0.119815
+making move: f3 to e2
+Opponent's Last Move: 'Qe7'  on turn: 202
+Time Remaining: 6.8534e+011 ns
+fen: "r1b1kr2/1p2q3/2p1pnp1/Pp1pQp1p/1P1P1P1P/2P3P1/1B2BP2/R3K2R w Kq - 76 102"
+zobirst hash: 9ff862410ef1b540
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p n p .
+ 5 P p . p Q p . p
+ 4 . P . P . P . P
+ 3 . . P . . . P .
+ 2 . B . . B P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   677482300 ns
+out of: 2741361788 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  2888364
+moves generated: 25225449
+ratio: 0.114502
+making move: e2 to d3
+Opponent's Last Move: 'Ng4'  on turn: 204
+Time Remaining: 6.84515e+011 ns
+fen: "r1b1kr2/1p2q3/2p1p1p1/Pp1pQp1p/1P1P1PnP/2PB2P1/1B3P2/R3K2R w Kq - 78 103"
+zobirst hash: dc803dd6943929f5
+   a b c d e f g h
+ 8 r . b . k r . .
+ 7 . p . . q . . .
+ 6 . . p . p . p .
+ 5 P p . p Q p . p
+ 4 . P . P . P n P
+ 3 . . P B . . P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   922669500 ns
+out of: 2738058616 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  4274360
+moves generated: 28537494
+ratio: 0.14978
+making move: e5 to e2
+Opponent's Last Move: 'Bd7'  on turn: 206
+Time Remaining: 6.8347e+011 ns
+fen: "r3kr2/1p1bq3/2p1p1p1/Pp1p1p1p/1P1P1PnP/2PB2P1/1B2QP2/R3K2R w Kq - 80 104"
+zobirst hash: cb8d655d639a8204
+   a b c d e f g h
+ 8 r . . . k r . .
+ 7 . p . b q . . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P n P
+ 3 . . P B . . P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   3037163400 ns
+out of: 2733878123 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  14150083
+moves generated: 94861959
+ratio: 0.149165
+making move: a1 to a3
+Opponent's Last Move: 'Rg8'  on turn: 208
+Time Remaining: 6.803e+011 ns
+fen: "r3k1r1/1p1bq3/2p1p1p1/Pp1p1p1p/1P1P1PnP/R1PB2P1/1B2QP2/4K2R w Kq - 82 105"
+zobirst hash: 1f2af4779b3555c1
+   a b c d e f g h
+ 8 r . . . k . r .
+ 7 . p . b q . . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P n P
+ 3 R . P B . . P .
+ 2 . B . . Q P . .
+ 1 . . . . K . . R
+im running with transposition
+took:   2906070300 ns
+out of: 2721198186 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  12011220
+moves generated: 86250293
+ratio: 0.13926
+making move: a3 to a1
+Opponent's Last Move: 'Nh6'  on turn: 210
+Time Remaining: 6.77257e+011 ns
+fen: "r3k1r1/1p1bq3/2p1p1pn/Pp1p1p1p/1P1P1P1P/2PB2P1/1B2QP2/R3K2R w Kq - 84 106"
+zobirst hash: 66e20c87bd87231c
+   a b c d e f g h
+ 8 r . . . k . r .
+ 7 . p . b q . . .
+ 6 . . p . p . p n
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B . . P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1979410800 ns
+out of: 2709029735 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  9367690
+moves generated: 65038362
+ratio: 0.144033
+making move: e2 to e3
+Opponent's Last Move: 'Nf7'  on turn: 212
+Time Remaining: 6.75148e+011 ns
+fen: "r3k1r1/1p1bqn2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PBQ1P1/1B3P2/R3K2R w Kq - 86 107"
+zobirst hash: e0847f2e184a4f16
+   a b c d e f g h
+ 8 r . . . k . r .
+ 7 . p . b q n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B Q . P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   2165553600 ns
+out of: 2700592270 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  10777299
+moves generated: 65791192
+ratio: 0.163811
+making move: e3 to e2
+Opponent's Last Move: 'Rh8'  on turn: 214
+Time Remaining: 6.72849e+011 ns
+fen: "r3k2r/1p1bqn2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PB2P1/1B2QP2/R3K2R w Kq - 88 108"
+zobirst hash: 585e993fbcf95d4d
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 . p . b q n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B . . P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   2025455300 ns
+out of: 2691396419 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  10058737
+moves generated: 65872299
+ratio: 0.152701
+making move: e2 to e3
+Opponent's Last Move: 'Qf8'  on turn: 216
+Time Remaining: 6.70696e+011 ns
+fen: "r3kq1r/1p1b1n2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PBQ1P1/1B3P2/R3K2R w Kq - 90 109"
+zobirst hash: c86b6ca8355e88a9
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 . p . b . n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B Q . P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   790563700 ns
+out of: 2682784065 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  3861026
+moves generated: 28009518
+ratio: 0.137847
+making move: e3 to e2
+Opponent's Last Move: 'Qd6'  on turn: 218
+Time Remaining: 6.69778e+011 ns
+fen: "r3k2r/1p1b1n2/2pqp1p1/Pp1p1p1p/1P1P1P1P/2PB2P1/1B2QP2/R3K2R w Kq - 92 110"
+zobirst hash: 76cd2ddf75dcff38
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 . p . b . n . .
+ 6 . . p q p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B . . P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1106787600 ns
+out of: 2679113644 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5367609
+moves generated: 39327845
+ratio: 0.136484
+making move: e2 to f3
+Opponent's Last Move: 'Qf8'  on turn: 220
+Time Remaining: 6.6854e+011 ns
+fen: "r3kq1r/1p1b1n2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PB1QP1/1B3P2/R3K2R w Kq - 94 111"
+zobirst hash: 5a7e68861576e127
+   a b c d e f g h
+ 8 r . . . k q . r
+ 7 . p . b . n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B . Q P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1630161200 ns
+out of: 2674161273 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  8217065
+moves generated: 52072737
+ratio: 0.1578
+making move: f3 to e3
+Opponent's Last Move: 'Qe7'  on turn: 222
+Time Remaining: 6.66787e+011 ns
+fen: "r3k2r/1p1bqn2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PBQ1P1/1B3P2/R3K2R w Kq - 96 112"
+zobirst hash: e66f6900fee839fc
+   a b c d e f g h
+ 8 r . . . k . . r
+ 7 . p . b q n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B Q . P .
+ 2 . B . . . P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   1034737000 ns
+out of: 2667149384 ns
+went to depth: 8
+minimax result: 19
+nodes explored:  5333126
+moves generated: 29829885
+ratio: 0.178785
+making move: e3 to e2
+Opponent's Last Move: 'Qd8'  on turn: 224
+Time Remaining: 6.65604e+011 ns
+fen: "r2qk2r/1p1b1n2/2p1p1p1/Pp1p1p1p/1P1P1P1P/2PB2P1/1B2QP2/R3K2R w Kq - 98 113"
+zobirst hash: 3b7760e5d2e2762e
+   a b c d e f g h
+ 8 r . . q k . . r
+ 7 . p . b . n . .
+ 6 . . p . p . p .
+ 5 P p . p . p . p
+ 4 . P . P . P . P
+ 3 . . P B . . P .
+ 2 . B . . Q P . .
+ 1 R . . . K . . R
+im running with transposition
+took:   2278635700 ns
+out of: 2662417780 ns
+went to depth: 8
+minimax result: 18
+nodes explored:  10998920
+moves generated: 79320021
+ratio: 0.138665
+making move: e2 to f3
+game ending board state:
+   +------------------------+
+ 8 | r  .  q  .  k  .  .  r |
+ 7 | .  p  .  b  .  n  .  . |
+ 6 | .  .  p  .  p  .  p  . |
+ 5 | P  p  .  p  .  p  .  p |
+ 4 | .  P  .  P  .  P  .  P |
+ 3 | .  .  P  B  .  Q  P  . |
+ 2 | .  B  .  .  .  P  .  . |
+ 1 | R  .  .  .  K  .  .  R |
+   +------------------------+
+     a  b  c  d  e  f  g  h
+total turns: 225
+grandNodesExplored:  1028146516
+grandMovesGenerated: 7011112301
+Scoped Benchmarking results:
+alpha beta average: 1,960,460,225 ns  total: 221,532,005,500 ns  Samples: 113
+note: averages below 5,000 ns can be fuzzy as the benchmark finished too fast
+?[32mGame is over. I lost :( because: Draw - 50-move rule: 50 moves completed with no pawn moved or piece captured.
+?[0m?[36m---
+Your gamelog is viewable at:
+http://vis.siggame.io/?log=http%3A%2F%2Fr99acm.device.mst.edu%3A3080%2Fgamelog%2F2017.04.03.15.20.28.330-Chess-session1
+---?[0m
+
+Process finished with exit code 0
