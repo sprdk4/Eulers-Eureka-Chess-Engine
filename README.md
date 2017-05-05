@@ -1,5 +1,5 @@
 # Where to find engine code
-all the code that I wrote is found in games/my_code/..., everything else is framework code provided for interfacing with the tournament arena.
+all the code that I wrote is found in games/chess/my_code/..., everything else is framework code provided for interfacing with the tournament arena.
 
 # Chess C++ Client
 
