@@ -184,10 +184,10 @@ namespace BitBoard {
         if (needflip)
             bitboard.switchSides();
 
-        score_t total = (score_t) (bitboard.materialBalance + pawnstrucure + developmentStructure);
+        score_t total = (score_t) (bitboard.materialBalance + pawnstrucure + developmentStructure + kingTropism);
         total = (total >> coarseGrain) << coarseGrain;
         return total;
-        //return (score_t) (100 * bitboard.materialBalance + pawnstrucure + developmentStructure);
+        //return (score_t) (100 * bitboard.materialBalance + pawnstrucure + developmentStructure + kingTropism);
 
     }
 
