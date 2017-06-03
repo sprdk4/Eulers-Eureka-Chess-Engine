@@ -302,7 +302,7 @@ namespace BitBoard {
     score_t mtdfPonder(score_t g, depth_t depthLeft) {
         //http://people.csail.mit.edu/plaat/mtdf.html#abmem
         score_t upper = std::numeric_limits<score_t>::max();
-        score_t lower = std::numeric_limits<score_t>::min();
+        score_t lower = std::numeric_limits<score_t>::lowest();
         score_t beta;
         while (lower < upper) {
             if (g == lower)
@@ -343,7 +343,7 @@ namespace BitBoard {
                         //guesses[x]=score;
                         //using vanilla alphabeta instead of mtdf to get a better coverage of the tree from each branch, and to fill the
                         //transposition table up with exact nodes, which mtdf doesn't do.
-                        score = alphaBetaMaxTranPonder(std::numeric_limits<score_t>::min(), std::numeric_limits<score_t>::max(),
+                        score = alphaBetaMaxTranPonder(std::numeric_limits<score_t>::lowest(), std::numeric_limits<score_t>::max(),
                                                        startDepth = onDepth, {0});
                     }
                     bitboard.switchSides();
