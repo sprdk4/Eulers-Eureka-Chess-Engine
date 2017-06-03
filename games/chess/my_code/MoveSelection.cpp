@@ -58,7 +58,7 @@ namespace BitBoard {
         //todo implement best node search, http://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/770_7.pdf
         //https://people.csail.mit.edu/plaat/mtdf.html
         score_t upper = std::numeric_limits<score_t>::max();
-        score_t lower = std::numeric_limits<score_t>::min();
+        score_t lower = std::numeric_limits<score_t>::lowest();
         score_t beta;
         while (lower < upper) {
             if (g == lower)
